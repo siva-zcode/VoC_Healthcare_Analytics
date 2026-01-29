@@ -1,0 +1,1001 @@
+patient_id,department,visit_type,rating,feedback_text,date,clean_text,sentiment
+1,Cardiology,Virtual,3,Nothing special,2025-10-16,nothing special,Positive
+2,Neurology,Virtual,3,Okay experience,2025-11-01,okay experience,Positive
+3,Oncology,In-person,5,Quick response,2025-02-11,quick response,Positive
+4,Neurology,In-person,1,Staff unhelpful,2025-10-17,staff unhelpful,Neutral
+5,ER,In-person,5,Friendly staff,2025-09-18,friendly staff,Positive
+6,Oncology,In-person,3,Nothing special,2025-08-04,nothing special,Positive
+7,Oncology,In-person,2,Confusing instructions,2025-05-25,confusing instructions,Negative
+8,Cardiology,In-person,1,Staff unhelpful,2025-03-10,staff unhelpful,Neutral
+9,Oncology,In-person,2,Waiting too long,2026-01-03,waiting too long,Neutral
+10,Cardiology,In-person,2,Waiting too long,2025-04-01,waiting too long,Neutral
+11,Oncology,In-person,5,Quick response,2025-12-07,quick response,Positive
+12,Orthopedics,Virtual,5,Friendly staff,2025-12-26,friendly staff,Positive
+13,ER,In-person,5,Excellent service,2025-10-03,excellent service,Positive
+14,Cardiology,Virtual,1,Staff unhelpful,2025-05-08,staff unhelpful,Neutral
+15,Oncology,Virtual,4,Staff helpful,2025-04-29,staff helpful,Neutral
+16,Cardiology,In-person,5,Excellent service,2025-04-09,excellent service,Positive
+17,Neurology,In-person,2,Poor experience,2025-10-09,poor experience,Negative
+18,ER,In-person,1,Miscommunication,2026-01-28,miscommunication,Neutral
+19,ER,In-person,2,Waiting too long,2025-08-12,waiting too long,Neutral
+20,Oncology,In-person,5,Excellent service,2025-02-04,excellent service,Positive
+21,Cardiology,In-person,1,Staff unhelpful,2025-11-12,staff unhelpful,Neutral
+22,Oncology,Virtual,2,Not satisfied,2025-04-22,not satisfied,Negative
+23,Oncology,In-person,3,Okay experience,2025-06-27,okay experience,Positive
+24,Oncology,Virtual,4,Staff helpful,2025-09-10,staff helpful,Neutral
+25,Oncology,Virtual,3,Okay experience,2025-10-24,okay experience,Positive
+26,Oncology,Virtual,1,Long wait time,2025-08-10,long wait time,Neutral
+27,Neurology,In-person,1,Treatment delayed,2025-08-10,treatment delayed,Neutral
+28,Cardiology,In-person,5,Friendly staff,2025-05-10,friendly staff,Positive
+29,ER,In-person,5,Very satisfied,2025-05-23,very satisfied,Positive
+30,Cardiology,Virtual,3,Average service,2025-02-14,average service,Negative
+31,Neurology,Virtual,1,Long wait time,2025-12-09,long wait time,Neutral
+32,ER,Virtual,2,Not satisfied,2025-07-12,not satisfied,Negative
+33,Cardiology,In-person,4,Staff helpful,2025-09-06,staff helpful,Neutral
+34,Orthopedics,In-person,2,Confusing instructions,2025-05-13,confusing instructions,Negative
+35,Oncology,Virtual,2,Confusing instructions,2025-08-11,confusing instructions,Negative
+36,ER,Virtual,2,Not satisfied,2025-11-08,not satisfied,Negative
+37,Neurology,In-person,2,Waiting too long,2025-07-03,waiting too long,Neutral
+38,Oncology,In-person,4,Good experience,2025-05-11,good experience,Positive
+39,Neurology,In-person,3,Nothing special,2025-10-14,nothing special,Positive
+40,Neurology,Virtual,2,Waiting too long,2025-08-28,waiting too long,Neutral
+41,Orthopedics,In-person,2,Waiting too long,2025-10-16,waiting too long,Neutral
+42,Neurology,Virtual,1,Very poor service,2025-12-04,very poor service,Negative
+43,Neurology,Virtual,4,Timely treatment,2025-12-17,timely treatment,Neutral
+44,Cardiology,In-person,4,Staff helpful,2025-03-28,staff helpful,Neutral
+45,Orthopedics,Virtual,5,Excellent service,2026-01-28,excellent service,Positive
+46,ER,Virtual,5,Excellent service,2025-02-14,excellent service,Positive
+47,Neurology,In-person,3,Average service,2025-11-23,average service,Negative
+48,Oncology,Virtual,3,Nothing special,2025-05-03,nothing special,Positive
+49,Orthopedics,Virtual,5,Excellent service,2025-09-30,excellent service,Positive
+50,Neurology,Virtual,4,Staff helpful,2025-05-04,staff helpful,Neutral
+51,Orthopedics,Virtual,4,Timely treatment,2025-07-12,timely treatment,Neutral
+52,Neurology,In-person,5,Quick response,2025-08-28,quick response,Positive
+53,Neurology,In-person,5,Friendly staff,2025-02-26,friendly staff,Positive
+54,Neurology,In-person,4,Good experience,2026-01-11,good experience,Positive
+55,ER,Virtual,3,Average service,2025-07-27,average service,Negative
+56,Orthopedics,In-person,5,Excellent service,2025-05-13,excellent service,Positive
+57,Orthopedics,In-person,2,Waiting too long,2025-07-18,waiting too long,Neutral
+58,Oncology,Virtual,3,Nothing special,2026-01-02,nothing special,Positive
+59,Cardiology,Virtual,4,Staff helpful,2025-04-23,staff helpful,Neutral
+60,Orthopedics,Virtual,2,Confusing instructions,2025-11-08,confusing instructions,Negative
+61,Cardiology,In-person,1,Staff unhelpful,2025-05-13,staff unhelpful,Neutral
+62,Cardiology,Virtual,4,Staff helpful,2025-12-01,staff helpful,Neutral
+63,Orthopedics,Virtual,3,Nothing special,2025-06-01,nothing special,Positive
+64,Orthopedics,Virtual,3,Okay experience,2025-06-04,okay experience,Positive
+65,Neurology,In-person,3,Average service,2025-02-23,average service,Negative
+66,Cardiology,Virtual,5,Friendly staff,2025-02-14,friendly staff,Positive
+67,Oncology,In-person,3,Nothing special,2025-08-19,nothing special,Positive
+68,Orthopedics,Virtual,1,Miscommunication,2025-05-04,miscommunication,Neutral
+69,Cardiology,In-person,5,Excellent service,2025-06-21,excellent service,Positive
+70,Cardiology,In-person,4,Timely treatment,2025-11-14,timely treatment,Neutral
+71,Neurology,In-person,3,Nothing special,2025-06-16,nothing special,Positive
+72,Orthopedics,In-person,5,Excellent service,2025-11-03,excellent service,Positive
+73,Cardiology,Virtual,2,Confusing instructions,2025-05-14,confusing instructions,Negative
+74,Cardiology,In-person,3,Nothing special,2025-04-22,nothing special,Positive
+75,Neurology,In-person,3,Nothing special,2025-11-07,nothing special,Positive
+76,Orthopedics,Virtual,3,Nothing special,2025-07-03,nothing special,Positive
+77,Neurology,Virtual,2,Confusing instructions,2025-11-18,confusing instructions,Negative
+78,ER,In-person,5,Excellent service,2026-01-02,excellent service,Positive
+79,Oncology,Virtual,2,Not satisfied,2025-08-22,not satisfied,Negative
+80,Neurology,In-person,2,Confusing instructions,2025-03-29,confusing instructions,Negative
+81,Orthopedics,Virtual,3,Okay experience,2025-02-11,okay experience,Positive
+82,ER,Virtual,5,Excellent service,2025-10-09,excellent service,Positive
+83,Oncology,In-person,3,Okay experience,2025-06-21,okay experience,Positive
+84,Orthopedics,Virtual,3,Nothing special,2025-05-12,nothing special,Positive
+85,Oncology,Virtual,3,Average service,2025-03-30,average service,Negative
+86,Orthopedics,In-person,3,Average service,2025-08-28,average service,Negative
+87,Cardiology,Virtual,1,Staff unhelpful,2025-12-18,staff unhelpful,Neutral
+88,Cardiology,Virtual,3,Average service,2025-12-17,average service,Negative
+89,ER,In-person,2,Confusing instructions,2025-05-28,confusing instructions,Negative
+90,ER,Virtual,3,Average service,2025-06-29,average service,Negative
+91,Cardiology,Virtual,1,Miscommunication,2025-11-24,miscommunication,Neutral
+92,Neurology,In-person,5,Quick response,2025-03-20,quick response,Positive
+93,Oncology,Virtual,1,Treatment delayed,2025-08-09,treatment delayed,Neutral
+94,Orthopedics,In-person,4,Timely treatment,2025-03-12,timely treatment,Neutral
+95,ER,Virtual,3,Okay experience,2025-12-06,okay experience,Positive
+96,Orthopedics,In-person,1,Long wait time,2025-03-01,long wait time,Neutral
+97,Neurology,Virtual,4,Good experience,2025-07-24,good experience,Positive
+98,ER,Virtual,3,Nothing special,2025-05-15,nothing special,Positive
+99,Orthopedics,In-person,4,Timely treatment,2025-05-25,timely treatment,Neutral
+100,Cardiology,Virtual,3,Nothing special,2025-12-29,nothing special,Positive
+101,Neurology,In-person,3,Okay experience,2025-07-01,okay experience,Positive
+102,Cardiology,Virtual,4,Staff helpful,2025-11-24,staff helpful,Neutral
+103,Orthopedics,In-person,3,Average service,2025-06-01,average service,Negative
+104,Oncology,In-person,4,Good experience,2025-02-09,good experience,Positive
+105,Oncology,In-person,4,Good experience,2025-04-11,good experience,Positive
+106,Cardiology,Virtual,1,Treatment delayed,2025-10-02,treatment delayed,Neutral
+107,Cardiology,Virtual,5,Friendly staff,2025-05-05,friendly staff,Positive
+108,Cardiology,In-person,4,Timely treatment,2025-11-04,timely treatment,Neutral
+109,ER,Virtual,1,Very poor service,2025-12-22,very poor service,Negative
+110,Cardiology,In-person,4,Good experience,2025-12-22,good experience,Positive
+111,Oncology,In-person,4,Timely treatment,2025-05-17,timely treatment,Neutral
+112,Neurology,Virtual,4,Good experience,2025-10-10,good experience,Positive
+113,Neurology,Virtual,5,Quick response,2025-02-02,quick response,Positive
+114,Oncology,In-person,4,Timely treatment,2025-02-16,timely treatment,Neutral
+115,Oncology,Virtual,2,Not satisfied,2025-11-11,not satisfied,Negative
+116,Cardiology,Virtual,5,Friendly staff,2025-03-15,friendly staff,Positive
+117,ER,In-person,5,Very satisfied,2025-10-31,very satisfied,Positive
+118,Cardiology,Virtual,3,Average service,2025-12-30,average service,Negative
+119,Cardiology,Virtual,1,Very poor service,2025-11-01,very poor service,Negative
+120,ER,Virtual,2,Poor experience,2025-07-19,poor experience,Negative
+121,ER,In-person,3,Average service,2025-11-09,average service,Negative
+122,ER,In-person,5,Very satisfied,2025-03-03,very satisfied,Positive
+123,ER,In-person,1,Miscommunication,2025-06-22,miscommunication,Neutral
+124,Orthopedics,Virtual,4,Timely treatment,2025-05-14,timely treatment,Neutral
+125,ER,In-person,3,Okay experience,2026-01-23,okay experience,Positive
+126,Neurology,Virtual,4,Timely treatment,2025-03-20,timely treatment,Neutral
+127,Cardiology,In-person,3,Nothing special,2026-01-07,nothing special,Positive
+128,ER,In-person,1,Miscommunication,2025-02-04,miscommunication,Neutral
+129,Oncology,Virtual,2,Waiting too long,2025-04-05,waiting too long,Neutral
+130,ER,In-person,5,Very satisfied,2026-01-17,very satisfied,Positive
+131,Orthopedics,In-person,5,Friendly staff,2025-11-08,friendly staff,Positive
+132,Neurology,In-person,4,Good experience,2025-05-08,good experience,Positive
+133,Neurology,Virtual,4,Staff helpful,2025-11-07,staff helpful,Neutral
+134,Neurology,Virtual,4,Staff helpful,2025-02-03,staff helpful,Neutral
+135,Cardiology,In-person,2,Waiting too long,2025-07-22,waiting too long,Neutral
+136,Neurology,In-person,2,Waiting too long,2025-08-10,waiting too long,Neutral
+137,Oncology,Virtual,4,Staff helpful,2025-11-01,staff helpful,Neutral
+138,Neurology,Virtual,4,Timely treatment,2025-03-31,timely treatment,Neutral
+139,Neurology,Virtual,4,Timely treatment,2025-01-29,timely treatment,Neutral
+140,ER,In-person,3,Nothing special,2025-11-18,nothing special,Positive
+141,ER,Virtual,4,Timely treatment,2025-10-22,timely treatment,Neutral
+142,Cardiology,Virtual,5,Very satisfied,2025-08-12,very satisfied,Positive
+143,Orthopedics,Virtual,2,Not satisfied,2025-02-04,not satisfied,Negative
+144,Cardiology,In-person,1,Treatment delayed,2025-01-30,treatment delayed,Neutral
+145,Oncology,Virtual,5,Friendly staff,2025-02-01,friendly staff,Positive
+146,Orthopedics,In-person,1,Long wait time,2025-06-01,long wait time,Neutral
+147,Cardiology,Virtual,3,Average service,2025-02-18,average service,Negative
+148,Oncology,Virtual,3,Okay experience,2025-09-13,okay experience,Positive
+149,Neurology,Virtual,5,Quick response,2026-01-10,quick response,Positive
+150,Oncology,Virtual,1,Very poor service,2025-06-25,very poor service,Negative
+151,ER,In-person,5,Excellent service,2025-12-29,excellent service,Positive
+152,Orthopedics,In-person,4,Staff helpful,2025-08-13,staff helpful,Neutral
+153,ER,In-person,5,Friendly staff,2025-04-10,friendly staff,Positive
+154,Cardiology,In-person,4,Timely treatment,2026-01-08,timely treatment,Neutral
+155,Orthopedics,Virtual,2,Waiting too long,2025-07-23,waiting too long,Neutral
+156,ER,Virtual,1,Long wait time,2025-03-18,long wait time,Neutral
+157,Orthopedics,Virtual,3,Nothing special,2025-04-12,nothing special,Positive
+158,ER,Virtual,4,Staff helpful,2025-11-24,staff helpful,Neutral
+159,Cardiology,In-person,3,Okay experience,2025-04-25,okay experience,Positive
+160,Neurology,Virtual,2,Confusing instructions,2025-09-12,confusing instructions,Negative
+161,Oncology,Virtual,4,Good experience,2025-11-20,good experience,Positive
+162,Cardiology,In-person,4,Good experience,2025-04-13,good experience,Positive
+163,Cardiology,Virtual,4,Timely treatment,2025-06-12,timely treatment,Neutral
+164,Oncology,Virtual,1,Staff unhelpful,2025-09-27,staff unhelpful,Neutral
+165,Cardiology,Virtual,1,Treatment delayed,2025-04-21,treatment delayed,Neutral
+166,ER,In-person,4,Good experience,2025-05-01,good experience,Positive
+167,Neurology,Virtual,5,Excellent service,2025-12-13,excellent service,Positive
+168,ER,In-person,4,Staff helpful,2025-05-19,staff helpful,Neutral
+169,ER,In-person,2,Not satisfied,2025-12-06,not satisfied,Negative
+170,Orthopedics,In-person,3,Average service,2025-02-28,average service,Negative
+171,Orthopedics,In-person,4,Staff helpful,2025-05-04,staff helpful,Neutral
+172,Oncology,In-person,2,Not satisfied,2025-08-22,not satisfied,Negative
+173,Orthopedics,In-person,5,Very satisfied,2025-07-22,very satisfied,Positive
+174,Neurology,Virtual,5,Very satisfied,2025-09-15,very satisfied,Positive
+175,Neurology,In-person,4,Good experience,2026-01-22,good experience,Positive
+176,Oncology,In-person,5,Friendly staff,2025-03-16,friendly staff,Positive
+177,Neurology,Virtual,5,Quick response,2025-06-20,quick response,Positive
+178,Oncology,In-person,2,Poor experience,2025-11-18,poor experience,Negative
+179,Orthopedics,In-person,5,Excellent service,2025-12-16,excellent service,Positive
+180,Orthopedics,In-person,4,Staff helpful,2025-06-27,staff helpful,Neutral
+181,ER,In-person,2,Waiting too long,2025-12-30,waiting too long,Neutral
+182,Oncology,Virtual,1,Staff unhelpful,2025-12-24,staff unhelpful,Neutral
+183,Orthopedics,Virtual,2,Confusing instructions,2025-07-18,confusing instructions,Negative
+184,Neurology,Virtual,2,Poor experience,2025-08-27,poor experience,Negative
+185,Cardiology,In-person,2,Not satisfied,2025-04-12,not satisfied,Negative
+186,Cardiology,In-person,2,Poor experience,2025-05-08,poor experience,Negative
+187,Oncology,In-person,3,Okay experience,2025-10-08,okay experience,Positive
+188,Cardiology,In-person,3,Okay experience,2025-06-06,okay experience,Positive
+189,Orthopedics,Virtual,2,Not satisfied,2025-10-27,not satisfied,Negative
+190,Neurology,In-person,1,Treatment delayed,2025-02-14,treatment delayed,Neutral
+191,Cardiology,In-person,4,Good experience,2025-08-05,good experience,Positive
+192,Oncology,Virtual,5,Quick response,2025-10-14,quick response,Positive
+193,Neurology,In-person,1,Miscommunication,2025-03-06,miscommunication,Neutral
+194,Neurology,In-person,1,Very poor service,2025-05-22,very poor service,Negative
+195,ER,In-person,5,Very satisfied,2025-11-02,very satisfied,Positive
+196,ER,Virtual,4,Good experience,2026-01-15,good experience,Positive
+197,Cardiology,In-person,2,Confusing instructions,2025-10-29,confusing instructions,Negative
+198,Neurology,Virtual,2,Poor experience,2025-04-09,poor experience,Negative
+199,Cardiology,Virtual,2,Confusing instructions,2025-11-07,confusing instructions,Negative
+200,Orthopedics,In-person,5,Excellent service,2026-01-23,excellent service,Positive
+201,Oncology,Virtual,1,Very poor service,2025-10-29,very poor service,Negative
+202,Oncology,Virtual,3,Nothing special,2025-05-29,nothing special,Positive
+203,Cardiology,In-person,4,Good experience,2025-02-07,good experience,Positive
+204,Oncology,Virtual,1,Staff unhelpful,2025-11-15,staff unhelpful,Neutral
+205,Orthopedics,Virtual,5,Excellent service,2026-01-09,excellent service,Positive
+206,ER,In-person,3,Nothing special,2025-05-22,nothing special,Positive
+207,Orthopedics,In-person,5,Excellent service,2025-03-16,excellent service,Positive
+208,Cardiology,In-person,2,Confusing instructions,2025-04-19,confusing instructions,Negative
+209,Orthopedics,Virtual,1,Staff unhelpful,2025-12-13,staff unhelpful,Neutral
+210,Neurology,In-person,1,Long wait time,2025-07-28,long wait time,Neutral
+211,Oncology,In-person,5,Quick response,2025-03-05,quick response,Positive
+212,Oncology,In-person,2,Not satisfied,2025-04-23,not satisfied,Negative
+213,ER,In-person,4,Staff helpful,2025-07-26,staff helpful,Neutral
+214,Cardiology,In-person,1,Treatment delayed,2025-09-14,treatment delayed,Neutral
+215,Orthopedics,Virtual,5,Very satisfied,2025-12-12,very satisfied,Positive
+216,ER,In-person,3,Nothing special,2025-02-15,nothing special,Positive
+217,Neurology,In-person,4,Good experience,2025-08-20,good experience,Positive
+218,Neurology,Virtual,1,Treatment delayed,2025-10-24,treatment delayed,Neutral
+219,ER,In-person,4,Timely treatment,2025-11-25,timely treatment,Neutral
+220,Oncology,In-person,5,Excellent service,2025-05-19,excellent service,Positive
+221,ER,Virtual,5,Very satisfied,2025-09-16,very satisfied,Positive
+222,Cardiology,In-person,2,Poor experience,2025-02-20,poor experience,Negative
+223,Orthopedics,In-person,5,Quick response,2025-05-20,quick response,Positive
+224,Cardiology,Virtual,3,Nothing special,2025-06-12,nothing special,Positive
+225,Neurology,In-person,5,Quick response,2025-05-11,quick response,Positive
+226,Cardiology,Virtual,2,Waiting too long,2025-07-01,waiting too long,Neutral
+227,ER,In-person,3,Nothing special,2025-09-15,nothing special,Positive
+228,ER,Virtual,1,Very poor service,2025-04-27,very poor service,Negative
+229,Oncology,Virtual,5,Quick response,2025-01-29,quick response,Positive
+230,Orthopedics,Virtual,4,Staff helpful,2025-11-07,staff helpful,Neutral
+231,Oncology,In-person,5,Friendly staff,2025-08-01,friendly staff,Positive
+232,Cardiology,Virtual,4,Timely treatment,2025-03-20,timely treatment,Neutral
+233,Orthopedics,In-person,1,Miscommunication,2025-03-10,miscommunication,Neutral
+234,ER,In-person,2,Waiting too long,2025-09-18,waiting too long,Neutral
+235,ER,Virtual,2,Waiting too long,2025-10-04,waiting too long,Neutral
+236,Cardiology,Virtual,3,Okay experience,2025-11-08,okay experience,Positive
+237,Neurology,Virtual,5,Very satisfied,2025-11-11,very satisfied,Positive
+238,ER,Virtual,4,Timely treatment,2025-08-30,timely treatment,Neutral
+239,Orthopedics,Virtual,1,Long wait time,2025-06-30,long wait time,Neutral
+240,Oncology,Virtual,5,Quick response,2025-04-01,quick response,Positive
+241,ER,In-person,4,Timely treatment,2025-02-05,timely treatment,Neutral
+242,Cardiology,Virtual,2,Not satisfied,2025-03-01,not satisfied,Negative
+243,Oncology,Virtual,3,Okay experience,2025-09-08,okay experience,Positive
+244,ER,In-person,1,Staff unhelpful,2025-02-22,staff unhelpful,Neutral
+245,Orthopedics,Virtual,2,Confusing instructions,2025-06-04,confusing instructions,Negative
+246,Cardiology,Virtual,1,Staff unhelpful,2025-05-06,staff unhelpful,Neutral
+247,Neurology,In-person,1,Miscommunication,2025-03-04,miscommunication,Neutral
+248,Cardiology,In-person,2,Waiting too long,2025-07-18,waiting too long,Neutral
+249,Oncology,In-person,5,Quick response,2025-05-30,quick response,Positive
+250,Neurology,In-person,1,Treatment delayed,2025-03-03,treatment delayed,Neutral
+251,Orthopedics,Virtual,5,Very satisfied,2025-12-15,very satisfied,Positive
+252,Oncology,In-person,4,Good experience,2025-02-18,good experience,Positive
+253,ER,Virtual,4,Timely treatment,2025-10-08,timely treatment,Neutral
+254,Oncology,Virtual,4,Staff helpful,2025-10-10,staff helpful,Neutral
+255,Cardiology,Virtual,1,Very poor service,2025-04-23,very poor service,Negative
+256,Orthopedics,In-person,5,Excellent service,2025-06-07,excellent service,Positive
+257,Neurology,Virtual,2,Waiting too long,2025-11-05,waiting too long,Neutral
+258,Neurology,In-person,4,Good experience,2025-08-21,good experience,Positive
+259,Oncology,Virtual,5,Excellent service,2025-12-22,excellent service,Positive
+260,Orthopedics,Virtual,1,Staff unhelpful,2025-10-02,staff unhelpful,Neutral
+261,Neurology,In-person,5,Excellent service,2025-07-02,excellent service,Positive
+262,Orthopedics,In-person,4,Staff helpful,2025-11-05,staff helpful,Neutral
+263,Oncology,In-person,2,Confusing instructions,2026-01-22,confusing instructions,Negative
+264,Cardiology,Virtual,2,Confusing instructions,2025-11-22,confusing instructions,Negative
+265,Orthopedics,Virtual,5,Excellent service,2025-03-28,excellent service,Positive
+266,ER,In-person,3,Average service,2025-03-29,average service,Negative
+267,Orthopedics,In-person,5,Friendly staff,2025-09-19,friendly staff,Positive
+268,Cardiology,In-person,2,Confusing instructions,2025-12-04,confusing instructions,Negative
+269,Cardiology,Virtual,3,Okay experience,2025-09-20,okay experience,Positive
+270,ER,Virtual,3,Average service,2025-07-04,average service,Negative
+271,Orthopedics,In-person,3,Okay experience,2025-12-09,okay experience,Positive
+272,Neurology,In-person,4,Staff helpful,2025-06-15,staff helpful,Neutral
+273,Oncology,In-person,5,Friendly staff,2025-10-21,friendly staff,Positive
+274,Orthopedics,In-person,1,Long wait time,2025-08-28,long wait time,Neutral
+275,Oncology,Virtual,5,Excellent service,2025-11-05,excellent service,Positive
+276,Oncology,In-person,4,Good experience,2025-05-22,good experience,Positive
+277,Orthopedics,Virtual,3,Okay experience,2025-11-20,okay experience,Positive
+278,Orthopedics,Virtual,2,Poor experience,2025-07-31,poor experience,Negative
+279,Neurology,Virtual,4,Good experience,2025-07-11,good experience,Positive
+280,Orthopedics,Virtual,3,Okay experience,2025-06-11,okay experience,Positive
+281,Oncology,In-person,1,Miscommunication,2025-06-03,miscommunication,Neutral
+282,Cardiology,In-person,5,Very satisfied,2025-04-02,very satisfied,Positive
+283,Oncology,Virtual,4,Staff helpful,2025-11-19,staff helpful,Neutral
+284,Orthopedics,Virtual,4,Timely treatment,2025-10-03,timely treatment,Neutral
+285,Neurology,Virtual,5,Very satisfied,2025-09-18,very satisfied,Positive
+286,Cardiology,Virtual,2,Not satisfied,2025-07-25,not satisfied,Negative
+287,Cardiology,In-person,2,Not satisfied,2025-03-04,not satisfied,Negative
+288,Orthopedics,Virtual,1,Very poor service,2025-11-01,very poor service,Negative
+289,Cardiology,Virtual,3,Okay experience,2025-05-08,okay experience,Positive
+290,Oncology,In-person,5,Excellent service,2025-08-09,excellent service,Positive
+291,Cardiology,In-person,5,Quick response,2025-11-25,quick response,Positive
+292,Oncology,Virtual,4,Timely treatment,2025-03-20,timely treatment,Neutral
+293,ER,In-person,5,Quick response,2025-08-04,quick response,Positive
+294,Oncology,Virtual,2,Poor experience,2025-04-13,poor experience,Negative
+295,Neurology,In-person,3,Nothing special,2025-09-12,nothing special,Positive
+296,Orthopedics,In-person,2,Poor experience,2026-01-22,poor experience,Negative
+297,Orthopedics,Virtual,3,Nothing special,2025-02-24,nothing special,Positive
+298,Oncology,In-person,5,Quick response,2025-10-20,quick response,Positive
+299,Cardiology,In-person,2,Waiting too long,2025-08-08,waiting too long,Neutral
+300,ER,Virtual,3,Nothing special,2025-04-16,nothing special,Positive
+301,Neurology,In-person,2,Waiting too long,2025-02-12,waiting too long,Neutral
+302,ER,Virtual,5,Quick response,2025-04-18,quick response,Positive
+303,ER,In-person,3,Nothing special,2025-05-22,nothing special,Positive
+304,Orthopedics,Virtual,3,Okay experience,2025-07-01,okay experience,Positive
+305,Cardiology,Virtual,3,Average service,2025-06-06,average service,Negative
+306,Orthopedics,Virtual,2,Waiting too long,2025-02-28,waiting too long,Neutral
+307,Orthopedics,Virtual,2,Poor experience,2025-10-01,poor experience,Negative
+308,Neurology,Virtual,1,Miscommunication,2025-05-12,miscommunication,Neutral
+309,ER,In-person,5,Very satisfied,2025-10-18,very satisfied,Positive
+310,Oncology,In-person,4,Timely treatment,2025-08-29,timely treatment,Neutral
+311,ER,In-person,5,Quick response,2026-01-01,quick response,Positive
+312,Neurology,In-person,1,Long wait time,2025-06-08,long wait time,Neutral
+313,Orthopedics,Virtual,4,Good experience,2025-11-28,good experience,Positive
+314,ER,Virtual,5,Very satisfied,2025-02-14,very satisfied,Positive
+315,Cardiology,In-person,1,Very poor service,2025-11-27,very poor service,Negative
+316,Neurology,In-person,1,Long wait time,2025-05-03,long wait time,Neutral
+317,Neurology,Virtual,4,Staff helpful,2025-09-25,staff helpful,Neutral
+318,Neurology,Virtual,2,Confusing instructions,2025-07-29,confusing instructions,Negative
+319,Oncology,Virtual,2,Poor experience,2025-07-26,poor experience,Negative
+320,Oncology,In-person,1,Staff unhelpful,2025-11-10,staff unhelpful,Neutral
+321,Neurology,Virtual,2,Waiting too long,2025-07-14,waiting too long,Neutral
+322,Oncology,Virtual,1,Long wait time,2025-02-23,long wait time,Neutral
+323,Neurology,Virtual,1,Miscommunication,2026-01-08,miscommunication,Neutral
+324,ER,Virtual,1,Miscommunication,2025-12-17,miscommunication,Neutral
+325,Neurology,In-person,5,Very satisfied,2025-05-31,very satisfied,Positive
+326,Neurology,In-person,1,Treatment delayed,2026-01-23,treatment delayed,Neutral
+327,Neurology,In-person,3,Average service,2025-04-14,average service,Negative
+328,Neurology,Virtual,3,Average service,2025-05-19,average service,Negative
+329,Orthopedics,Virtual,2,Waiting too long,2025-06-17,waiting too long,Neutral
+330,Cardiology,Virtual,1,Very poor service,2025-09-15,very poor service,Negative
+331,ER,Virtual,3,Okay experience,2025-11-01,okay experience,Positive
+332,Oncology,Virtual,5,Friendly staff,2025-10-23,friendly staff,Positive
+333,Orthopedics,Virtual,1,Long wait time,2025-12-19,long wait time,Neutral
+334,Neurology,In-person,4,Timely treatment,2025-10-15,timely treatment,Neutral
+335,ER,Virtual,1,Treatment delayed,2025-11-06,treatment delayed,Neutral
+336,Oncology,In-person,5,Very satisfied,2025-06-06,very satisfied,Positive
+337,Orthopedics,Virtual,1,Staff unhelpful,2025-10-03,staff unhelpful,Neutral
+338,Cardiology,In-person,4,Good experience,2025-09-13,good experience,Positive
+339,Neurology,Virtual,2,Waiting too long,2025-03-21,waiting too long,Neutral
+340,Neurology,In-person,4,Timely treatment,2026-01-08,timely treatment,Neutral
+341,ER,In-person,1,Staff unhelpful,2025-07-27,staff unhelpful,Neutral
+342,Oncology,In-person,2,Confusing instructions,2025-04-26,confusing instructions,Negative
+343,Neurology,In-person,4,Good experience,2025-05-24,good experience,Positive
+344,Cardiology,In-person,5,Friendly staff,2025-03-05,friendly staff,Positive
+345,Oncology,In-person,5,Quick response,2025-05-02,quick response,Positive
+346,Neurology,In-person,4,Good experience,2025-06-13,good experience,Positive
+347,Cardiology,In-person,5,Excellent service,2025-03-06,excellent service,Positive
+348,Oncology,Virtual,2,Not satisfied,2026-01-24,not satisfied,Negative
+349,Neurology,In-person,2,Waiting too long,2025-04-21,waiting too long,Neutral
+350,Neurology,In-person,3,Okay experience,2025-10-27,okay experience,Positive
+351,Cardiology,Virtual,2,Waiting too long,2025-05-25,waiting too long,Neutral
+352,ER,In-person,1,Treatment delayed,2025-04-02,treatment delayed,Neutral
+353,Cardiology,In-person,2,Confusing instructions,2025-05-07,confusing instructions,Negative
+354,Cardiology,In-person,4,Staff helpful,2025-08-02,staff helpful,Neutral
+355,ER,Virtual,1,Miscommunication,2025-02-01,miscommunication,Neutral
+356,Cardiology,In-person,2,Confusing instructions,2025-06-17,confusing instructions,Negative
+357,Oncology,Virtual,3,Nothing special,2025-03-08,nothing special,Positive
+358,Orthopedics,Virtual,1,Treatment delayed,2025-03-23,treatment delayed,Neutral
+359,Cardiology,Virtual,3,Nothing special,2025-07-04,nothing special,Positive
+360,Neurology,Virtual,5,Quick response,2026-01-12,quick response,Positive
+361,Neurology,Virtual,1,Long wait time,2025-10-23,long wait time,Neutral
+362,ER,In-person,3,Okay experience,2025-06-08,okay experience,Positive
+363,ER,In-person,2,Poor experience,2026-01-13,poor experience,Negative
+364,ER,Virtual,5,Quick response,2025-03-12,quick response,Positive
+365,Neurology,In-person,4,Timely treatment,2025-06-13,timely treatment,Neutral
+366,Neurology,In-person,5,Excellent service,2025-12-29,excellent service,Positive
+367,Neurology,In-person,3,Nothing special,2025-04-22,nothing special,Positive
+368,ER,In-person,2,Waiting too long,2025-08-27,waiting too long,Neutral
+369,Oncology,Virtual,4,Good experience,2025-11-02,good experience,Positive
+370,Oncology,Virtual,1,Miscommunication,2025-10-11,miscommunication,Neutral
+371,Oncology,Virtual,3,Nothing special,2025-06-29,nothing special,Positive
+372,ER,In-person,5,Very satisfied,2025-08-21,very satisfied,Positive
+373,Oncology,In-person,4,Timely treatment,2025-04-17,timely treatment,Neutral
+374,Neurology,Virtual,4,Timely treatment,2025-09-18,timely treatment,Neutral
+375,ER,In-person,2,Poor experience,2025-10-21,poor experience,Negative
+376,Neurology,In-person,3,Okay experience,2025-12-08,okay experience,Positive
+377,Orthopedics,In-person,3,Okay experience,2026-01-15,okay experience,Positive
+378,Neurology,In-person,5,Excellent service,2025-11-01,excellent service,Positive
+379,Orthopedics,Virtual,1,Staff unhelpful,2025-11-02,staff unhelpful,Neutral
+380,Oncology,Virtual,5,Friendly staff,2026-01-17,friendly staff,Positive
+381,Orthopedics,In-person,4,Staff helpful,2025-06-24,staff helpful,Neutral
+382,Neurology,Virtual,2,Waiting too long,2025-10-19,waiting too long,Neutral
+383,Neurology,Virtual,2,Waiting too long,2025-10-18,waiting too long,Neutral
+384,Neurology,In-person,2,Not satisfied,2025-05-17,not satisfied,Negative
+385,Cardiology,In-person,3,Nothing special,2025-03-11,nothing special,Positive
+386,Orthopedics,In-person,5,Excellent service,2026-01-02,excellent service,Positive
+387,Neurology,In-person,5,Quick response,2025-11-24,quick response,Positive
+388,Cardiology,Virtual,2,Not satisfied,2025-02-25,not satisfied,Negative
+389,Orthopedics,In-person,1,Long wait time,2025-03-03,long wait time,Neutral
+390,Cardiology,Virtual,3,Nothing special,2025-08-23,nothing special,Positive
+391,ER,Virtual,5,Friendly staff,2025-09-28,friendly staff,Positive
+392,Neurology,Virtual,2,Waiting too long,2025-10-17,waiting too long,Neutral
+393,Oncology,In-person,4,Staff helpful,2025-11-25,staff helpful,Neutral
+394,Cardiology,In-person,3,Nothing special,2025-02-20,nothing special,Positive
+395,Neurology,In-person,4,Good experience,2025-02-24,good experience,Positive
+396,Cardiology,Virtual,4,Staff helpful,2025-01-29,staff helpful,Neutral
+397,Neurology,Virtual,5,Very satisfied,2025-10-24,very satisfied,Positive
+398,ER,Virtual,5,Friendly staff,2025-11-20,friendly staff,Positive
+399,ER,In-person,3,Average service,2025-09-17,average service,Negative
+400,Orthopedics,In-person,4,Timely treatment,2025-05-05,timely treatment,Neutral
+401,Cardiology,Virtual,5,Excellent service,2025-03-02,excellent service,Positive
+402,Orthopedics,Virtual,5,Excellent service,2025-10-12,excellent service,Positive
+403,ER,In-person,4,Good experience,2025-07-10,good experience,Positive
+404,Neurology,Virtual,1,Treatment delayed,2026-01-26,treatment delayed,Neutral
+405,Orthopedics,Virtual,4,Staff helpful,2025-08-18,staff helpful,Neutral
+406,Oncology,Virtual,1,Miscommunication,2025-07-12,miscommunication,Neutral
+407,Neurology,In-person,5,Very satisfied,2025-05-18,very satisfied,Positive
+408,Oncology,Virtual,1,Long wait time,2025-05-10,long wait time,Neutral
+409,Orthopedics,In-person,3,Okay experience,2025-05-25,okay experience,Positive
+410,Neurology,Virtual,4,Staff helpful,2025-02-25,staff helpful,Neutral
+411,ER,In-person,4,Good experience,2025-05-27,good experience,Positive
+412,Oncology,Virtual,4,Good experience,2025-04-22,good experience,Positive
+413,Neurology,Virtual,4,Staff helpful,2025-09-09,staff helpful,Neutral
+414,Cardiology,Virtual,1,Treatment delayed,2025-09-26,treatment delayed,Neutral
+415,Cardiology,In-person,2,Waiting too long,2025-09-18,waiting too long,Neutral
+416,Cardiology,Virtual,1,Very poor service,2025-10-09,very poor service,Negative
+417,Orthopedics,In-person,3,Okay experience,2025-09-03,okay experience,Positive
+418,ER,In-person,3,Okay experience,2025-06-13,okay experience,Positive
+419,ER,In-person,5,Very satisfied,2025-11-05,very satisfied,Positive
+420,Neurology,In-person,4,Staff helpful,2025-03-01,staff helpful,Neutral
+421,Neurology,Virtual,1,Very poor service,2025-02-01,very poor service,Negative
+422,Cardiology,In-person,1,Treatment delayed,2025-08-10,treatment delayed,Neutral
+423,ER,Virtual,3,Average service,2025-07-16,average service,Negative
+424,ER,In-person,1,Long wait time,2025-10-12,long wait time,Neutral
+425,Neurology,Virtual,1,Treatment delayed,2025-08-01,treatment delayed,Neutral
+426,Neurology,Virtual,3,Nothing special,2025-11-10,nothing special,Positive
+427,Neurology,Virtual,5,Friendly staff,2025-09-15,friendly staff,Positive
+428,Neurology,In-person,2,Poor experience,2025-09-09,poor experience,Negative
+429,Cardiology,Virtual,3,Okay experience,2025-03-19,okay experience,Positive
+430,Neurology,Virtual,3,Average service,2025-10-05,average service,Negative
+431,Orthopedics,Virtual,3,Nothing special,2025-07-02,nothing special,Positive
+432,Neurology,In-person,3,Average service,2025-09-07,average service,Negative
+433,Orthopedics,In-person,4,Good experience,2025-07-07,good experience,Positive
+434,Neurology,Virtual,1,Staff unhelpful,2025-05-19,staff unhelpful,Neutral
+435,Cardiology,Virtual,1,Treatment delayed,2025-07-10,treatment delayed,Neutral
+436,ER,Virtual,5,Friendly staff,2025-12-15,friendly staff,Positive
+437,Neurology,Virtual,4,Timely treatment,2025-12-29,timely treatment,Neutral
+438,Cardiology,Virtual,4,Timely treatment,2026-01-20,timely treatment,Neutral
+439,ER,Virtual,4,Staff helpful,2025-11-29,staff helpful,Neutral
+440,Oncology,Virtual,3,Okay experience,2025-02-28,okay experience,Positive
+441,Oncology,Virtual,5,Quick response,2025-12-29,quick response,Positive
+442,ER,Virtual,4,Staff helpful,2025-11-07,staff helpful,Neutral
+443,Oncology,In-person,1,Staff unhelpful,2025-06-14,staff unhelpful,Neutral
+444,Oncology,In-person,5,Excellent service,2025-12-12,excellent service,Positive
+445,Orthopedics,Virtual,3,Average service,2025-10-16,average service,Negative
+446,Oncology,Virtual,1,Treatment delayed,2025-06-16,treatment delayed,Neutral
+447,Oncology,In-person,4,Timely treatment,2025-08-17,timely treatment,Neutral
+448,Neurology,In-person,3,Nothing special,2025-11-25,nothing special,Positive
+449,Oncology,Virtual,3,Average service,2025-09-13,average service,Negative
+450,Oncology,Virtual,5,Quick response,2026-01-04,quick response,Positive
+451,Neurology,In-person,3,Okay experience,2025-03-29,okay experience,Positive
+452,ER,In-person,4,Timely treatment,2025-05-26,timely treatment,Neutral
+453,Cardiology,Virtual,1,Staff unhelpful,2025-12-11,staff unhelpful,Neutral
+454,Neurology,In-person,5,Friendly staff,2026-01-03,friendly staff,Positive
+455,Oncology,Virtual,5,Friendly staff,2025-03-11,friendly staff,Positive
+456,Orthopedics,In-person,1,Long wait time,2025-08-04,long wait time,Neutral
+457,ER,In-person,4,Good experience,2025-10-10,good experience,Positive
+458,Orthopedics,In-person,4,Good experience,2025-04-10,good experience,Positive
+459,Neurology,In-person,2,Waiting too long,2025-04-03,waiting too long,Neutral
+460,Oncology,In-person,2,Not satisfied,2025-05-05,not satisfied,Negative
+461,Cardiology,Virtual,3,Average service,2025-08-18,average service,Negative
+462,Orthopedics,Virtual,5,Excellent service,2025-07-19,excellent service,Positive
+463,Oncology,In-person,2,Not satisfied,2025-10-31,not satisfied,Negative
+464,Orthopedics,In-person,3,Average service,2025-11-17,average service,Negative
+465,ER,In-person,3,Nothing special,2025-10-04,nothing special,Positive
+466,Cardiology,Virtual,5,Quick response,2025-03-22,quick response,Positive
+467,Neurology,In-person,5,Excellent service,2025-02-24,excellent service,Positive
+468,Oncology,In-person,2,Waiting too long,2025-02-27,waiting too long,Neutral
+469,Oncology,In-person,1,Treatment delayed,2025-06-07,treatment delayed,Neutral
+470,Orthopedics,Virtual,5,Very satisfied,2025-11-02,very satisfied,Positive
+471,Cardiology,In-person,2,Not satisfied,2026-01-15,not satisfied,Negative
+472,Oncology,Virtual,1,Treatment delayed,2025-03-06,treatment delayed,Neutral
+473,Oncology,In-person,1,Very poor service,2026-01-27,very poor service,Negative
+474,ER,Virtual,1,Treatment delayed,2025-06-18,treatment delayed,Neutral
+475,Cardiology,In-person,1,Very poor service,2025-12-13,very poor service,Negative
+476,ER,In-person,3,Average service,2026-01-26,average service,Negative
+477,Neurology,In-person,5,Friendly staff,2025-05-05,friendly staff,Positive
+478,Neurology,In-person,2,Not satisfied,2025-02-27,not satisfied,Negative
+479,Neurology,In-person,5,Very satisfied,2025-05-31,very satisfied,Positive
+480,Neurology,Virtual,1,Miscommunication,2025-10-14,miscommunication,Neutral
+481,Cardiology,In-person,1,Staff unhelpful,2025-05-06,staff unhelpful,Neutral
+482,Oncology,In-person,1,Treatment delayed,2025-02-23,treatment delayed,Neutral
+483,Orthopedics,In-person,5,Friendly staff,2025-07-02,friendly staff,Positive
+484,Neurology,Virtual,3,Okay experience,2025-05-31,okay experience,Positive
+485,Cardiology,Virtual,2,Not satisfied,2025-09-15,not satisfied,Negative
+486,Neurology,Virtual,3,Average service,2025-09-08,average service,Negative
+487,Neurology,Virtual,4,Good experience,2025-06-19,good experience,Positive
+488,Orthopedics,Virtual,5,Quick response,2025-10-08,quick response,Positive
+489,Oncology,In-person,1,Treatment delayed,2025-12-21,treatment delayed,Neutral
+490,Oncology,In-person,3,Nothing special,2026-01-19,nothing special,Positive
+491,ER,Virtual,4,Staff helpful,2026-01-16,staff helpful,Neutral
+492,Orthopedics,Virtual,5,Excellent service,2025-04-30,excellent service,Positive
+493,Neurology,In-person,5,Very satisfied,2025-04-20,very satisfied,Positive
+494,ER,In-person,5,Very satisfied,2025-05-11,very satisfied,Positive
+495,Orthopedics,Virtual,4,Timely treatment,2025-02-13,timely treatment,Neutral
+496,Neurology,In-person,3,Nothing special,2025-06-09,nothing special,Positive
+497,Oncology,In-person,4,Timely treatment,2025-10-27,timely treatment,Neutral
+498,Cardiology,Virtual,4,Staff helpful,2025-09-23,staff helpful,Neutral
+499,Cardiology,In-person,1,Treatment delayed,2025-08-27,treatment delayed,Neutral
+500,Orthopedics,Virtual,5,Excellent service,2025-12-25,excellent service,Positive
+501,ER,In-person,2,Not satisfied,2025-03-20,not satisfied,Negative
+502,Cardiology,In-person,4,Good experience,2025-10-18,good experience,Positive
+503,Cardiology,Virtual,5,Very satisfied,2025-11-19,very satisfied,Positive
+504,Oncology,In-person,4,Timely treatment,2025-10-29,timely treatment,Neutral
+505,Orthopedics,In-person,1,Very poor service,2025-06-24,very poor service,Negative
+506,Neurology,In-person,3,Average service,2025-05-22,average service,Negative
+507,Neurology,In-person,5,Excellent service,2025-02-09,excellent service,Positive
+508,ER,In-person,1,Treatment delayed,2025-06-17,treatment delayed,Neutral
+509,ER,In-person,5,Friendly staff,2025-04-12,friendly staff,Positive
+510,Cardiology,Virtual,3,Nothing special,2025-09-05,nothing special,Positive
+511,Cardiology,In-person,2,Confusing instructions,2025-08-10,confusing instructions,Negative
+512,Neurology,In-person,3,Nothing special,2026-01-21,nothing special,Positive
+513,Oncology,In-person,5,Very satisfied,2025-09-01,very satisfied,Positive
+514,Neurology,Virtual,2,Confusing instructions,2025-02-19,confusing instructions,Negative
+515,Neurology,Virtual,3,Average service,2025-11-05,average service,Negative
+516,Cardiology,Virtual,1,Treatment delayed,2025-08-08,treatment delayed,Neutral
+517,Cardiology,Virtual,3,Average service,2025-03-24,average service,Negative
+518,Neurology,Virtual,1,Miscommunication,2025-06-22,miscommunication,Neutral
+519,Cardiology,Virtual,2,Not satisfied,2025-08-01,not satisfied,Negative
+520,Orthopedics,In-person,5,Friendly staff,2026-01-13,friendly staff,Positive
+521,Orthopedics,Virtual,2,Not satisfied,2025-12-09,not satisfied,Negative
+522,Neurology,Virtual,5,Excellent service,2025-06-10,excellent service,Positive
+523,Cardiology,In-person,3,Nothing special,2025-06-14,nothing special,Positive
+524,Oncology,Virtual,5,Quick response,2025-02-20,quick response,Positive
+525,Cardiology,Virtual,4,Timely treatment,2026-01-08,timely treatment,Neutral
+526,ER,Virtual,5,Very satisfied,2026-01-09,very satisfied,Positive
+527,Oncology,Virtual,3,Nothing special,2025-04-17,nothing special,Positive
+528,ER,In-person,4,Good experience,2025-12-28,good experience,Positive
+529,Orthopedics,Virtual,2,Waiting too long,2025-09-07,waiting too long,Neutral
+530,Orthopedics,In-person,1,Treatment delayed,2025-07-22,treatment delayed,Neutral
+531,ER,Virtual,3,Okay experience,2025-05-29,okay experience,Positive
+532,Neurology,Virtual,2,Poor experience,2025-07-03,poor experience,Negative
+533,Oncology,Virtual,2,Waiting too long,2025-12-17,waiting too long,Neutral
+534,ER,Virtual,2,Confusing instructions,2025-11-12,confusing instructions,Negative
+535,Cardiology,Virtual,4,Staff helpful,2025-11-05,staff helpful,Neutral
+536,Neurology,In-person,3,Nothing special,2025-08-31,nothing special,Positive
+537,ER,Virtual,5,Friendly staff,2025-05-18,friendly staff,Positive
+538,ER,Virtual,3,Average service,2025-12-20,average service,Negative
+539,Orthopedics,Virtual,2,Confusing instructions,2025-10-02,confusing instructions,Negative
+540,Orthopedics,Virtual,2,Waiting too long,2025-12-21,waiting too long,Neutral
+541,Neurology,Virtual,3,Nothing special,2025-08-22,nothing special,Positive
+542,Oncology,In-person,1,Staff unhelpful,2025-11-06,staff unhelpful,Neutral
+543,Neurology,Virtual,3,Okay experience,2026-01-20,okay experience,Positive
+544,Orthopedics,Virtual,1,Miscommunication,2025-01-30,miscommunication,Neutral
+545,ER,In-person,4,Good experience,2025-06-13,good experience,Positive
+546,Oncology,In-person,2,Not satisfied,2025-07-02,not satisfied,Negative
+547,Orthopedics,In-person,1,Miscommunication,2025-07-05,miscommunication,Neutral
+548,Orthopedics,In-person,3,Average service,2025-10-13,average service,Negative
+549,Orthopedics,Virtual,2,Confusing instructions,2025-06-10,confusing instructions,Negative
+550,Oncology,In-person,3,Nothing special,2025-02-01,nothing special,Positive
+551,Orthopedics,Virtual,4,Staff helpful,2025-11-30,staff helpful,Neutral
+552,Orthopedics,Virtual,5,Excellent service,2025-04-06,excellent service,Positive
+553,Neurology,In-person,5,Excellent service,2025-10-26,excellent service,Positive
+554,ER,In-person,5,Quick response,2025-03-26,quick response,Positive
+555,Orthopedics,Virtual,2,Not satisfied,2025-07-19,not satisfied,Negative
+556,ER,Virtual,1,Very poor service,2025-04-11,very poor service,Negative
+557,Oncology,In-person,5,Very satisfied,2025-10-29,very satisfied,Positive
+558,Oncology,Virtual,5,Excellent service,2025-05-02,excellent service,Positive
+559,ER,In-person,3,Average service,2025-05-28,average service,Negative
+560,ER,In-person,4,Good experience,2025-04-24,good experience,Positive
+561,ER,In-person,2,Waiting too long,2025-05-26,waiting too long,Neutral
+562,Orthopedics,Virtual,3,Average service,2025-08-14,average service,Negative
+563,Neurology,In-person,3,Okay experience,2026-01-01,okay experience,Positive
+564,Orthopedics,Virtual,3,Average service,2025-07-11,average service,Negative
+565,Orthopedics,Virtual,4,Staff helpful,2025-09-29,staff helpful,Neutral
+566,ER,In-person,2,Not satisfied,2025-09-01,not satisfied,Negative
+567,Cardiology,Virtual,4,Staff helpful,2025-07-10,staff helpful,Neutral
+568,ER,In-person,2,Waiting too long,2025-12-16,waiting too long,Neutral
+569,ER,In-person,2,Confusing instructions,2025-06-15,confusing instructions,Negative
+570,Cardiology,In-person,3,Nothing special,2025-08-21,nothing special,Positive
+571,Orthopedics,In-person,4,Timely treatment,2026-01-12,timely treatment,Neutral
+572,Cardiology,In-person,4,Staff helpful,2025-07-21,staff helpful,Neutral
+573,Neurology,Virtual,2,Waiting too long,2025-08-01,waiting too long,Neutral
+574,Orthopedics,Virtual,1,Very poor service,2025-11-18,very poor service,Negative
+575,ER,In-person,5,Friendly staff,2025-08-22,friendly staff,Positive
+576,Orthopedics,In-person,2,Confusing instructions,2025-07-23,confusing instructions,Negative
+577,Neurology,Virtual,2,Confusing instructions,2025-02-27,confusing instructions,Negative
+578,Cardiology,Virtual,2,Not satisfied,2025-06-24,not satisfied,Negative
+579,Orthopedics,In-person,3,Okay experience,2026-01-25,okay experience,Positive
+580,Oncology,In-person,4,Staff helpful,2025-04-14,staff helpful,Neutral
+581,Oncology,Virtual,4,Timely treatment,2025-02-07,timely treatment,Neutral
+582,Cardiology,In-person,1,Long wait time,2025-06-07,long wait time,Neutral
+583,ER,In-person,5,Quick response,2025-09-10,quick response,Positive
+584,Neurology,In-person,3,Nothing special,2025-10-14,nothing special,Positive
+585,Orthopedics,Virtual,5,Very satisfied,2025-04-22,very satisfied,Positive
+586,Neurology,Virtual,2,Not satisfied,2025-03-08,not satisfied,Negative
+587,Cardiology,Virtual,2,Poor experience,2025-03-24,poor experience,Negative
+588,Orthopedics,In-person,2,Confusing instructions,2025-02-28,confusing instructions,Negative
+589,Oncology,In-person,4,Timely treatment,2025-05-11,timely treatment,Neutral
+590,Orthopedics,In-person,1,Very poor service,2025-04-27,very poor service,Negative
+591,Neurology,In-person,4,Staff helpful,2025-04-16,staff helpful,Neutral
+592,Cardiology,In-person,3,Nothing special,2025-09-17,nothing special,Positive
+593,ER,In-person,2,Confusing instructions,2025-02-12,confusing instructions,Negative
+594,Neurology,In-person,2,Poor experience,2025-12-12,poor experience,Negative
+595,Cardiology,Virtual,5,Excellent service,2025-03-27,excellent service,Positive
+596,Neurology,Virtual,4,Timely treatment,2025-02-12,timely treatment,Neutral
+597,Orthopedics,Virtual,4,Timely treatment,2025-10-16,timely treatment,Neutral
+598,ER,In-person,2,Poor experience,2025-09-20,poor experience,Negative
+599,Oncology,Virtual,3,Average service,2025-04-15,average service,Negative
+600,Cardiology,In-person,3,Nothing special,2026-01-26,nothing special,Positive
+601,ER,Virtual,1,Very poor service,2025-06-19,very poor service,Negative
+602,Oncology,Virtual,4,Staff helpful,2025-04-13,staff helpful,Neutral
+603,Neurology,In-person,1,Very poor service,2026-01-01,very poor service,Negative
+604,Cardiology,In-person,3,Average service,2025-02-24,average service,Negative
+605,Oncology,Virtual,4,Staff helpful,2025-08-03,staff helpful,Neutral
+606,Neurology,Virtual,1,Miscommunication,2025-04-24,miscommunication,Neutral
+607,ER,In-person,4,Timely treatment,2025-06-25,timely treatment,Neutral
+608,Oncology,In-person,1,Long wait time,2025-03-04,long wait time,Neutral
+609,ER,In-person,2,Waiting too long,2025-06-30,waiting too long,Neutral
+610,Orthopedics,In-person,3,Average service,2025-10-27,average service,Negative
+611,Neurology,Virtual,5,Excellent service,2025-11-24,excellent service,Positive
+612,Orthopedics,In-person,1,Very poor service,2025-09-30,very poor service,Negative
+613,Cardiology,Virtual,1,Miscommunication,2025-07-24,miscommunication,Neutral
+614,Cardiology,Virtual,1,Long wait time,2025-08-24,long wait time,Neutral
+615,ER,In-person,5,Very satisfied,2026-01-27,very satisfied,Positive
+616,Cardiology,Virtual,3,Average service,2025-05-18,average service,Negative
+617,Neurology,In-person,1,Staff unhelpful,2025-03-31,staff unhelpful,Neutral
+618,Neurology,In-person,2,Confusing instructions,2025-09-28,confusing instructions,Negative
+619,Cardiology,In-person,2,Waiting too long,2026-01-01,waiting too long,Neutral
+620,Neurology,Virtual,4,Good experience,2026-01-23,good experience,Positive
+621,Neurology,In-person,5,Quick response,2025-08-18,quick response,Positive
+622,ER,Virtual,4,Staff helpful,2025-10-10,staff helpful,Neutral
+623,ER,In-person,1,Treatment delayed,2025-12-24,treatment delayed,Neutral
+624,Neurology,Virtual,1,Staff unhelpful,2025-02-28,staff unhelpful,Neutral
+625,Oncology,In-person,1,Treatment delayed,2025-06-28,treatment delayed,Neutral
+626,Neurology,In-person,5,Friendly staff,2025-03-22,friendly staff,Positive
+627,Oncology,In-person,5,Friendly staff,2026-01-02,friendly staff,Positive
+628,Oncology,Virtual,5,Friendly staff,2025-10-20,friendly staff,Positive
+629,Orthopedics,In-person,1,Very poor service,2025-02-03,very poor service,Negative
+630,Cardiology,In-person,2,Not satisfied,2025-06-14,not satisfied,Negative
+631,Oncology,Virtual,3,Nothing special,2025-07-28,nothing special,Positive
+632,ER,Virtual,3,Average service,2025-07-01,average service,Negative
+633,Oncology,In-person,3,Average service,2025-10-08,average service,Negative
+634,Oncology,Virtual,3,Nothing special,2025-02-03,nothing special,Positive
+635,Orthopedics,Virtual,5,Excellent service,2025-02-25,excellent service,Positive
+636,Oncology,In-person,4,Staff helpful,2025-03-04,staff helpful,Neutral
+637,Cardiology,Virtual,4,Good experience,2025-12-15,good experience,Positive
+638,Cardiology,In-person,1,Miscommunication,2025-11-17,miscommunication,Neutral
+639,Neurology,In-person,2,Not satisfied,2025-11-27,not satisfied,Negative
+640,Orthopedics,In-person,2,Confusing instructions,2025-06-12,confusing instructions,Negative
+641,ER,Virtual,1,Miscommunication,2025-12-06,miscommunication,Neutral
+642,Orthopedics,Virtual,3,Average service,2025-09-26,average service,Negative
+643,Neurology,Virtual,4,Good experience,2025-11-21,good experience,Positive
+644,Neurology,In-person,3,Nothing special,2026-01-23,nothing special,Positive
+645,Orthopedics,Virtual,4,Good experience,2025-09-20,good experience,Positive
+646,Oncology,In-person,4,Timely treatment,2025-06-29,timely treatment,Neutral
+647,Neurology,In-person,2,Poor experience,2026-01-16,poor experience,Negative
+648,Orthopedics,Virtual,5,Friendly staff,2025-12-03,friendly staff,Positive
+649,ER,In-person,3,Nothing special,2026-01-28,nothing special,Positive
+650,Neurology,Virtual,1,Miscommunication,2025-12-13,miscommunication,Neutral
+651,Orthopedics,In-person,4,Staff helpful,2026-01-26,staff helpful,Neutral
+652,Oncology,In-person,3,Okay experience,2025-07-16,okay experience,Positive
+653,Cardiology,Virtual,1,Long wait time,2025-09-15,long wait time,Neutral
+654,ER,Virtual,1,Treatment delayed,2025-12-28,treatment delayed,Neutral
+655,Neurology,Virtual,2,Not satisfied,2025-10-23,not satisfied,Negative
+656,Orthopedics,Virtual,4,Timely treatment,2025-09-16,timely treatment,Neutral
+657,Cardiology,Virtual,4,Staff helpful,2025-12-09,staff helpful,Neutral
+658,ER,Virtual,5,Friendly staff,2026-01-01,friendly staff,Positive
+659,Neurology,Virtual,5,Very satisfied,2025-09-17,very satisfied,Positive
+660,ER,In-person,5,Quick response,2025-09-08,quick response,Positive
+661,Orthopedics,Virtual,3,Nothing special,2025-07-06,nothing special,Positive
+662,Neurology,Virtual,5,Friendly staff,2026-01-01,friendly staff,Positive
+663,Neurology,In-person,5,Quick response,2025-11-17,quick response,Positive
+664,ER,In-person,3,Okay experience,2026-01-21,okay experience,Positive
+665,ER,In-person,4,Staff helpful,2025-05-01,staff helpful,Neutral
+666,Neurology,In-person,3,Average service,2025-01-31,average service,Negative
+667,Cardiology,In-person,3,Average service,2025-12-25,average service,Negative
+668,Oncology,In-person,3,Okay experience,2025-04-08,okay experience,Positive
+669,ER,Virtual,2,Confusing instructions,2025-08-10,confusing instructions,Negative
+670,Oncology,In-person,5,Friendly staff,2025-07-02,friendly staff,Positive
+671,Neurology,Virtual,5,Friendly staff,2025-08-26,friendly staff,Positive
+672,Neurology,In-person,5,Very satisfied,2025-11-11,very satisfied,Positive
+673,ER,Virtual,2,Not satisfied,2025-12-12,not satisfied,Negative
+674,ER,Virtual,4,Staff helpful,2025-11-25,staff helpful,Neutral
+675,ER,Virtual,2,Not satisfied,2025-03-17,not satisfied,Negative
+676,Orthopedics,In-person,2,Waiting too long,2025-11-15,waiting too long,Neutral
+677,Cardiology,Virtual,1,Miscommunication,2025-08-18,miscommunication,Neutral
+678,ER,Virtual,1,Staff unhelpful,2025-06-07,staff unhelpful,Neutral
+679,Cardiology,Virtual,1,Long wait time,2025-10-26,long wait time,Neutral
+680,Neurology,Virtual,5,Excellent service,2025-09-11,excellent service,Positive
+681,Orthopedics,In-person,5,Friendly staff,2025-06-07,friendly staff,Positive
+682,ER,In-person,2,Confusing instructions,2025-03-25,confusing instructions,Negative
+683,Neurology,Virtual,5,Very satisfied,2025-10-28,very satisfied,Positive
+684,ER,Virtual,2,Waiting too long,2025-10-08,waiting too long,Neutral
+685,Neurology,Virtual,3,Nothing special,2025-02-25,nothing special,Positive
+686,Oncology,Virtual,1,Miscommunication,2026-01-02,miscommunication,Neutral
+687,Neurology,Virtual,1,Staff unhelpful,2025-11-03,staff unhelpful,Neutral
+688,ER,In-person,5,Quick response,2025-10-06,quick response,Positive
+689,Orthopedics,Virtual,3,Average service,2025-06-29,average service,Negative
+690,Cardiology,Virtual,4,Good experience,2025-04-28,good experience,Positive
+691,Cardiology,Virtual,5,Excellent service,2025-12-17,excellent service,Positive
+692,ER,In-person,5,Friendly staff,2025-07-07,friendly staff,Positive
+693,Neurology,Virtual,2,Poor experience,2025-02-22,poor experience,Negative
+694,ER,Virtual,5,Friendly staff,2025-02-03,friendly staff,Positive
+695,Neurology,Virtual,1,Miscommunication,2025-10-20,miscommunication,Neutral
+696,Orthopedics,In-person,4,Timely treatment,2025-12-29,timely treatment,Neutral
+697,Cardiology,Virtual,2,Poor experience,2025-11-06,poor experience,Negative
+698,Oncology,In-person,3,Nothing special,2025-03-22,nothing special,Positive
+699,ER,In-person,2,Poor experience,2025-11-27,poor experience,Negative
+700,Cardiology,Virtual,4,Good experience,2025-04-19,good experience,Positive
+701,Orthopedics,Virtual,2,Not satisfied,2025-03-20,not satisfied,Negative
+702,Orthopedics,Virtual,3,Nothing special,2025-09-03,nothing special,Positive
+703,Orthopedics,Virtual,3,Nothing special,2025-10-17,nothing special,Positive
+704,ER,In-person,4,Staff helpful,2025-06-22,staff helpful,Neutral
+705,Neurology,Virtual,5,Excellent service,2025-07-19,excellent service,Positive
+706,ER,Virtual,4,Timely treatment,2025-07-18,timely treatment,Neutral
+707,Neurology,In-person,4,Staff helpful,2025-11-11,staff helpful,Neutral
+708,Cardiology,In-person,5,Very satisfied,2025-07-05,very satisfied,Positive
+709,ER,In-person,3,Okay experience,2025-03-05,okay experience,Positive
+710,Cardiology,In-person,2,Not satisfied,2025-03-27,not satisfied,Negative
+711,Oncology,In-person,2,Poor experience,2025-10-11,poor experience,Negative
+712,Cardiology,Virtual,1,Treatment delayed,2025-07-12,treatment delayed,Neutral
+713,Orthopedics,Virtual,2,Not satisfied,2025-08-22,not satisfied,Negative
+714,Oncology,In-person,3,Average service,2025-12-08,average service,Negative
+715,Oncology,In-person,3,Nothing special,2025-11-29,nothing special,Positive
+716,Neurology,In-person,4,Good experience,2025-04-01,good experience,Positive
+717,Orthopedics,Virtual,4,Staff helpful,2025-09-15,staff helpful,Neutral
+718,Orthopedics,Virtual,5,Friendly staff,2025-06-07,friendly staff,Positive
+719,Oncology,In-person,3,Okay experience,2025-07-01,okay experience,Positive
+720,ER,In-person,4,Staff helpful,2025-01-28,staff helpful,Neutral
+721,Cardiology,Virtual,2,Not satisfied,2026-01-11,not satisfied,Negative
+722,Cardiology,In-person,4,Timely treatment,2025-08-30,timely treatment,Neutral
+723,Cardiology,In-person,4,Staff helpful,2025-05-28,staff helpful,Neutral
+724,ER,In-person,4,Good experience,2025-03-21,good experience,Positive
+725,Orthopedics,In-person,3,Nothing special,2025-07-08,nothing special,Positive
+726,Cardiology,Virtual,2,Poor experience,2025-02-23,poor experience,Negative
+727,ER,Virtual,3,Okay experience,2026-01-23,okay experience,Positive
+728,Cardiology,Virtual,5,Quick response,2025-09-15,quick response,Positive
+729,Neurology,Virtual,3,Okay experience,2025-09-20,okay experience,Positive
+730,Neurology,Virtual,1,Treatment delayed,2025-05-02,treatment delayed,Neutral
+731,Oncology,Virtual,4,Timely treatment,2025-05-11,timely treatment,Neutral
+732,ER,Virtual,1,Long wait time,2025-06-21,long wait time,Neutral
+733,ER,Virtual,1,Very poor service,2025-05-12,very poor service,Negative
+734,ER,Virtual,1,Staff unhelpful,2025-05-12,staff unhelpful,Neutral
+735,ER,In-person,2,Confusing instructions,2025-12-09,confusing instructions,Negative
+736,Orthopedics,In-person,1,Staff unhelpful,2025-11-10,staff unhelpful,Neutral
+737,Neurology,Virtual,2,Not satisfied,2025-09-02,not satisfied,Negative
+738,Cardiology,Virtual,2,Not satisfied,2025-03-09,not satisfied,Negative
+739,Oncology,In-person,2,Not satisfied,2025-12-31,not satisfied,Negative
+740,Orthopedics,In-person,1,Long wait time,2026-01-27,long wait time,Neutral
+741,ER,In-person,5,Quick response,2025-04-15,quick response,Positive
+742,ER,In-person,5,Very satisfied,2025-10-10,very satisfied,Positive
+743,Oncology,In-person,4,Good experience,2025-02-08,good experience,Positive
+744,Cardiology,In-person,1,Staff unhelpful,2025-11-17,staff unhelpful,Neutral
+745,Oncology,Virtual,3,Okay experience,2025-11-16,okay experience,Positive
+746,Orthopedics,Virtual,3,Average service,2025-10-25,average service,Negative
+747,Cardiology,Virtual,5,Excellent service,2025-07-26,excellent service,Positive
+748,Oncology,In-person,3,Nothing special,2025-02-02,nothing special,Positive
+749,Cardiology,Virtual,3,Nothing special,2025-06-30,nothing special,Positive
+750,Neurology,In-person,4,Timely treatment,2025-04-19,timely treatment,Neutral
+751,Oncology,Virtual,1,Staff unhelpful,2025-08-21,staff unhelpful,Neutral
+752,Cardiology,In-person,1,Miscommunication,2025-11-24,miscommunication,Neutral
+753,Cardiology,In-person,2,Not satisfied,2026-01-18,not satisfied,Negative
+754,Orthopedics,Virtual,3,Nothing special,2025-08-05,nothing special,Positive
+755,ER,Virtual,1,Long wait time,2025-10-16,long wait time,Neutral
+756,Cardiology,In-person,3,Average service,2025-02-09,average service,Negative
+757,ER,In-person,2,Confusing instructions,2025-12-19,confusing instructions,Negative
+758,ER,Virtual,3,Average service,2025-07-06,average service,Negative
+759,ER,In-person,5,Quick response,2025-05-11,quick response,Positive
+760,Oncology,In-person,1,Very poor service,2026-01-20,very poor service,Negative
+761,Oncology,In-person,5,Excellent service,2025-10-16,excellent service,Positive
+762,Oncology,In-person,1,Very poor service,2025-12-09,very poor service,Negative
+763,Cardiology,In-person,1,Very poor service,2025-10-13,very poor service,Negative
+764,Cardiology,In-person,3,Okay experience,2026-01-15,okay experience,Positive
+765,Neurology,Virtual,2,Poor experience,2025-11-23,poor experience,Negative
+766,Cardiology,Virtual,4,Good experience,2025-06-13,good experience,Positive
+767,Orthopedics,Virtual,4,Timely treatment,2025-03-21,timely treatment,Neutral
+768,ER,In-person,5,Friendly staff,2025-08-28,friendly staff,Positive
+769,ER,In-person,4,Staff helpful,2025-09-03,staff helpful,Neutral
+770,Oncology,Virtual,3,Okay experience,2025-06-29,okay experience,Positive
+771,Cardiology,Virtual,4,Staff helpful,2026-01-13,staff helpful,Neutral
+772,Oncology,Virtual,3,Okay experience,2025-10-27,okay experience,Positive
+773,ER,Virtual,4,Good experience,2025-08-08,good experience,Positive
+774,Neurology,Virtual,1,Miscommunication,2025-12-19,miscommunication,Neutral
+775,Cardiology,In-person,1,Miscommunication,2025-05-02,miscommunication,Neutral
+776,Orthopedics,In-person,1,Very poor service,2025-06-09,very poor service,Negative
+777,Orthopedics,Virtual,3,Nothing special,2026-01-07,nothing special,Positive
+778,ER,Virtual,3,Okay experience,2025-04-25,okay experience,Positive
+779,ER,Virtual,5,Excellent service,2025-06-24,excellent service,Positive
+780,Cardiology,Virtual,5,Friendly staff,2025-12-29,friendly staff,Positive
+781,Cardiology,Virtual,1,Treatment delayed,2025-04-11,treatment delayed,Neutral
+782,ER,Virtual,5,Quick response,2025-12-20,quick response,Positive
+783,Orthopedics,Virtual,4,Good experience,2026-01-08,good experience,Positive
+784,Oncology,Virtual,4,Timely treatment,2025-03-15,timely treatment,Neutral
+785,Neurology,Virtual,2,Poor experience,2025-02-26,poor experience,Negative
+786,Neurology,In-person,5,Quick response,2025-09-13,quick response,Positive
+787,Oncology,In-person,5,Very satisfied,2025-07-18,very satisfied,Positive
+788,Oncology,Virtual,4,Good experience,2025-08-30,good experience,Positive
+789,Oncology,Virtual,3,Okay experience,2025-06-13,okay experience,Positive
+790,ER,Virtual,5,Excellent service,2025-12-22,excellent service,Positive
+791,Oncology,In-person,5,Excellent service,2025-02-10,excellent service,Positive
+792,Oncology,In-person,4,Good experience,2025-08-17,good experience,Positive
+793,Oncology,In-person,5,Excellent service,2025-03-28,excellent service,Positive
+794,Neurology,Virtual,1,Miscommunication,2025-07-27,miscommunication,Neutral
+795,Orthopedics,Virtual,3,Okay experience,2025-09-23,okay experience,Positive
+796,Oncology,Virtual,4,Timely treatment,2025-11-15,timely treatment,Neutral
+797,ER,In-person,4,Good experience,2026-01-11,good experience,Positive
+798,Oncology,In-person,3,Nothing special,2025-09-17,nothing special,Positive
+799,Neurology,In-person,5,Quick response,2025-11-15,quick response,Positive
+800,Neurology,In-person,1,Treatment delayed,2025-05-30,treatment delayed,Neutral
+801,ER,Virtual,2,Confusing instructions,2025-12-02,confusing instructions,Negative
+802,Neurology,Virtual,3,Okay experience,2025-11-02,okay experience,Positive
+803,Cardiology,Virtual,5,Friendly staff,2025-11-14,friendly staff,Positive
+804,Orthopedics,Virtual,2,Waiting too long,2025-02-16,waiting too long,Neutral
+805,Oncology,In-person,1,Staff unhelpful,2025-06-08,staff unhelpful,Neutral
+806,Neurology,Virtual,2,Confusing instructions,2025-08-13,confusing instructions,Negative
+807,Neurology,Virtual,4,Good experience,2025-03-29,good experience,Positive
+808,Orthopedics,Virtual,1,Very poor service,2025-03-02,very poor service,Negative
+809,Neurology,Virtual,1,Very poor service,2026-01-28,very poor service,Negative
+810,Cardiology,Virtual,2,Waiting too long,2025-05-25,waiting too long,Neutral
+811,Oncology,In-person,3,Nothing special,2025-11-21,nothing special,Positive
+812,ER,Virtual,3,Nothing special,2025-04-06,nothing special,Positive
+813,ER,Virtual,3,Nothing special,2026-01-21,nothing special,Positive
+814,ER,Virtual,3,Average service,2025-01-28,average service,Negative
+815,Orthopedics,Virtual,4,Timely treatment,2025-11-23,timely treatment,Neutral
+816,Oncology,Virtual,3,Average service,2025-07-07,average service,Negative
+817,Neurology,In-person,3,Nothing special,2025-07-15,nothing special,Positive
+818,Orthopedics,In-person,2,Waiting too long,2025-07-26,waiting too long,Neutral
+819,Cardiology,Virtual,5,Friendly staff,2025-08-10,friendly staff,Positive
+820,Oncology,Virtual,4,Good experience,2025-07-30,good experience,Positive
+821,Cardiology,Virtual,4,Good experience,2025-05-19,good experience,Positive
+822,Neurology,In-person,3,Average service,2025-03-15,average service,Negative
+823,Orthopedics,In-person,2,Poor experience,2025-07-26,poor experience,Negative
+824,ER,Virtual,2,Poor experience,2025-04-17,poor experience,Negative
+825,Cardiology,In-person,3,Average service,2025-05-01,average service,Negative
+826,ER,Virtual,3,Nothing special,2025-05-18,nothing special,Positive
+827,Oncology,Virtual,3,Okay experience,2025-04-16,okay experience,Positive
+828,Neurology,In-person,4,Good experience,2025-11-29,good experience,Positive
+829,Oncology,Virtual,5,Quick response,2025-12-13,quick response,Positive
+830,ER,Virtual,4,Timely treatment,2025-05-13,timely treatment,Neutral
+831,ER,In-person,3,Average service,2025-01-29,average service,Negative
+832,Neurology,Virtual,1,Treatment delayed,2026-01-02,treatment delayed,Neutral
+833,Oncology,In-person,4,Good experience,2025-10-22,good experience,Positive
+834,ER,In-person,2,Poor experience,2025-03-08,poor experience,Negative
+835,Orthopedics,Virtual,1,Long wait time,2025-05-30,long wait time,Neutral
+836,Neurology,In-person,3,Nothing special,2025-04-20,nothing special,Positive
+837,Cardiology,In-person,4,Timely treatment,2025-10-06,timely treatment,Neutral
+838,ER,In-person,5,Very satisfied,2025-08-08,very satisfied,Positive
+839,Neurology,In-person,5,Excellent service,2025-09-26,excellent service,Positive
+840,Oncology,In-person,5,Quick response,2025-04-04,quick response,Positive
+841,Neurology,In-person,5,Friendly staff,2026-01-03,friendly staff,Positive
+842,Neurology,In-person,4,Staff helpful,2025-03-22,staff helpful,Neutral
+843,ER,Virtual,3,Okay experience,2026-01-07,okay experience,Positive
+844,Oncology,Virtual,2,Poor experience,2025-04-27,poor experience,Negative
+845,Oncology,In-person,4,Timely treatment,2025-12-25,timely treatment,Neutral
+846,Oncology,In-person,4,Good experience,2025-09-19,good experience,Positive
+847,Orthopedics,Virtual,4,Good experience,2025-06-06,good experience,Positive
+848,Orthopedics,Virtual,5,Excellent service,2025-03-29,excellent service,Positive
+849,Orthopedics,In-person,5,Friendly staff,2025-04-30,friendly staff,Positive
+850,ER,In-person,1,Long wait time,2025-10-20,long wait time,Neutral
+851,Neurology,In-person,2,Not satisfied,2025-12-10,not satisfied,Negative
+852,ER,Virtual,1,Miscommunication,2025-06-19,miscommunication,Neutral
+853,Cardiology,Virtual,2,Waiting too long,2025-07-30,waiting too long,Neutral
+854,Oncology,Virtual,3,Okay experience,2025-11-29,okay experience,Positive
+855,Neurology,Virtual,4,Good experience,2025-06-06,good experience,Positive
+856,Cardiology,Virtual,5,Friendly staff,2025-05-21,friendly staff,Positive
+857,Neurology,In-person,5,Quick response,2025-03-16,quick response,Positive
+858,Cardiology,In-person,1,Treatment delayed,2025-05-14,treatment delayed,Neutral
+859,Oncology,In-person,5,Very satisfied,2025-04-21,very satisfied,Positive
+860,ER,Virtual,5,Very satisfied,2025-02-10,very satisfied,Positive
+861,Orthopedics,Virtual,1,Staff unhelpful,2025-11-20,staff unhelpful,Neutral
+862,Neurology,Virtual,5,Friendly staff,2025-05-31,friendly staff,Positive
+863,ER,In-person,3,Nothing special,2025-11-07,nothing special,Positive
+864,Cardiology,Virtual,3,Average service,2026-01-05,average service,Negative
+865,ER,Virtual,5,Quick response,2025-03-28,quick response,Positive
+866,Cardiology,Virtual,4,Good experience,2025-04-25,good experience,Positive
+867,Cardiology,In-person,5,Friendly staff,2025-09-30,friendly staff,Positive
+868,Orthopedics,Virtual,3,Okay experience,2025-03-14,okay experience,Positive
+869,Orthopedics,In-person,5,Friendly staff,2025-09-09,friendly staff,Positive
+870,Orthopedics,Virtual,2,Poor experience,2025-09-21,poor experience,Negative
+871,ER,Virtual,3,Okay experience,2025-06-30,okay experience,Positive
+872,Cardiology,Virtual,2,Waiting too long,2025-12-09,waiting too long,Neutral
+873,Cardiology,Virtual,5,Very satisfied,2025-10-15,very satisfied,Positive
+874,Oncology,Virtual,2,Not satisfied,2025-08-30,not satisfied,Negative
+875,Oncology,Virtual,4,Good experience,2025-05-14,good experience,Positive
+876,Orthopedics,In-person,4,Staff helpful,2025-12-26,staff helpful,Neutral
+877,Cardiology,Virtual,4,Good experience,2025-04-23,good experience,Positive
+878,Oncology,In-person,2,Waiting too long,2025-02-17,waiting too long,Neutral
+879,ER,Virtual,2,Not satisfied,2025-05-04,not satisfied,Negative
+880,ER,Virtual,3,Okay experience,2025-06-17,okay experience,Positive
+881,Neurology,Virtual,5,Very satisfied,2025-05-29,very satisfied,Positive
+882,Orthopedics,In-person,4,Timely treatment,2025-03-31,timely treatment,Neutral
+883,Cardiology,Virtual,5,Excellent service,2025-12-23,excellent service,Positive
+884,Cardiology,Virtual,3,Nothing special,2025-06-29,nothing special,Positive
+885,ER,Virtual,4,Staff helpful,2025-02-10,staff helpful,Neutral
+886,Oncology,In-person,2,Waiting too long,2025-03-19,waiting too long,Neutral
+887,Orthopedics,Virtual,2,Confusing instructions,2025-02-23,confusing instructions,Negative
+888,ER,In-person,2,Poor experience,2025-09-29,poor experience,Negative
+889,Cardiology,In-person,5,Very satisfied,2025-04-12,very satisfied,Positive
+890,Oncology,In-person,3,Nothing special,2026-01-14,nothing special,Positive
+891,ER,Virtual,2,Not satisfied,2026-01-22,not satisfied,Negative
+892,ER,In-person,5,Very satisfied,2025-09-27,very satisfied,Positive
+893,Cardiology,Virtual,3,Okay experience,2025-03-08,okay experience,Positive
+894,Oncology,In-person,5,Excellent service,2025-09-22,excellent service,Positive
+895,Oncology,Virtual,2,Confusing instructions,2025-02-21,confusing instructions,Negative
+896,Orthopedics,Virtual,1,Very poor service,2025-03-13,very poor service,Negative
+897,Neurology,In-person,5,Very satisfied,2025-11-10,very satisfied,Positive
+898,Neurology,In-person,3,Nothing special,2025-08-06,nothing special,Positive
+899,Oncology,Virtual,1,Very poor service,2025-10-25,very poor service,Negative
+900,Neurology,In-person,3,Average service,2025-10-31,average service,Negative
+901,Oncology,Virtual,2,Confusing instructions,2025-11-01,confusing instructions,Negative
+902,Oncology,In-person,1,Miscommunication,2026-01-27,miscommunication,Neutral
+903,Orthopedics,Virtual,2,Confusing instructions,2025-10-30,confusing instructions,Negative
+904,Cardiology,In-person,4,Good experience,2025-07-12,good experience,Positive
+905,Oncology,Virtual,4,Staff helpful,2025-11-24,staff helpful,Neutral
+906,Orthopedics,In-person,4,Timely treatment,2025-05-31,timely treatment,Neutral
+907,Orthopedics,Virtual,4,Timely treatment,2025-02-12,timely treatment,Neutral
+908,ER,Virtual,5,Very satisfied,2026-01-10,very satisfied,Positive
+909,Neurology,Virtual,2,Poor experience,2025-06-08,poor experience,Negative
+910,Neurology,In-person,4,Good experience,2025-02-13,good experience,Positive
+911,Neurology,Virtual,3,Average service,2025-04-10,average service,Negative
+912,Cardiology,In-person,2,Not satisfied,2025-02-18,not satisfied,Negative
+913,Oncology,In-person,1,Treatment delayed,2025-06-28,treatment delayed,Neutral
+914,Cardiology,Virtual,4,Timely treatment,2025-12-04,timely treatment,Neutral
+915,ER,Virtual,5,Excellent service,2025-11-04,excellent service,Positive
+916,Orthopedics,Virtual,5,Friendly staff,2025-09-10,friendly staff,Positive
+917,Cardiology,Virtual,1,Treatment delayed,2025-10-05,treatment delayed,Neutral
+918,Cardiology,Virtual,3,Okay experience,2025-03-11,okay experience,Positive
+919,Neurology,In-person,5,Excellent service,2025-05-13,excellent service,Positive
+920,Orthopedics,Virtual,1,Very poor service,2025-02-09,very poor service,Negative
+921,ER,In-person,5,Friendly staff,2025-06-24,friendly staff,Positive
+922,Orthopedics,Virtual,2,Waiting too long,2025-10-01,waiting too long,Neutral
+923,Neurology,Virtual,5,Very satisfied,2025-08-11,very satisfied,Positive
+924,Neurology,Virtual,4,Staff helpful,2025-07-29,staff helpful,Neutral
+925,Orthopedics,In-person,5,Very satisfied,2025-08-03,very satisfied,Positive
+926,Cardiology,In-person,3,Okay experience,2025-04-04,okay experience,Positive
+927,ER,In-person,4,Staff helpful,2025-08-15,staff helpful,Neutral
+928,Oncology,In-person,4,Good experience,2025-02-19,good experience,Positive
+929,Neurology,Virtual,4,Good experience,2026-01-24,good experience,Positive
+930,Cardiology,Virtual,3,Average service,2025-03-19,average service,Negative
+931,Neurology,In-person,1,Miscommunication,2026-01-21,miscommunication,Neutral
+932,ER,In-person,3,Nothing special,2025-11-12,nothing special,Positive
+933,Neurology,In-person,5,Excellent service,2025-03-30,excellent service,Positive
+934,Neurology,Virtual,1,Miscommunication,2025-07-16,miscommunication,Neutral
+935,Cardiology,Virtual,3,Nothing special,2025-10-28,nothing special,Positive
+936,Cardiology,Virtual,2,Confusing instructions,2025-03-10,confusing instructions,Negative
+937,ER,Virtual,3,Okay experience,2025-09-21,okay experience,Positive
+938,ER,Virtual,2,Poor experience,2026-01-02,poor experience,Negative
+939,Orthopedics,In-person,3,Nothing special,2025-07-28,nothing special,Positive
+940,Oncology,In-person,1,Very poor service,2025-06-18,very poor service,Negative
+941,Orthopedics,Virtual,4,Staff helpful,2025-06-30,staff helpful,Neutral
+942,Oncology,In-person,2,Not satisfied,2025-06-12,not satisfied,Negative
+943,Orthopedics,In-person,2,Not satisfied,2025-12-08,not satisfied,Negative
+944,Neurology,Virtual,2,Confusing instructions,2025-04-18,confusing instructions,Negative
+945,Cardiology,In-person,1,Treatment delayed,2025-08-07,treatment delayed,Neutral
+946,Oncology,Virtual,1,Very poor service,2025-12-03,very poor service,Negative
+947,Neurology,In-person,4,Staff helpful,2025-04-12,staff helpful,Neutral
+948,Cardiology,Virtual,2,Waiting too long,2025-06-26,waiting too long,Neutral
+949,Neurology,In-person,4,Staff helpful,2025-06-07,staff helpful,Neutral
+950,Orthopedics,Virtual,1,Very poor service,2025-08-15,very poor service,Negative
+951,Oncology,Virtual,3,Okay experience,2025-07-20,okay experience,Positive
+952,Orthopedics,In-person,1,Miscommunication,2025-07-18,miscommunication,Neutral
+953,Neurology,In-person,3,Okay experience,2025-02-19,okay experience,Positive
+954,ER,Virtual,3,Okay experience,2025-02-11,okay experience,Positive
+955,Neurology,Virtual,5,Very satisfied,2025-04-03,very satisfied,Positive
+956,ER,In-person,4,Good experience,2025-02-02,good experience,Positive
+957,Cardiology,Virtual,2,Poor experience,2025-06-20,poor experience,Negative
+958,Oncology,In-person,1,Staff unhelpful,2025-11-02,staff unhelpful,Neutral
+959,Cardiology,Virtual,1,Treatment delayed,2026-01-16,treatment delayed,Neutral
+960,Neurology,Virtual,2,Confusing instructions,2025-06-12,confusing instructions,Negative
+961,ER,In-person,1,Treatment delayed,2025-07-23,treatment delayed,Neutral
+962,Cardiology,In-person,3,Average service,2025-07-01,average service,Negative
+963,Orthopedics,In-person,3,Average service,2025-07-29,average service,Negative
+964,Cardiology,Virtual,1,Treatment delayed,2025-10-16,treatment delayed,Neutral
+965,Neurology,Virtual,4,Timely treatment,2025-05-07,timely treatment,Neutral
+966,ER,Virtual,5,Quick response,2025-07-10,quick response,Positive
+967,Oncology,In-person,5,Quick response,2026-01-14,quick response,Positive
+968,Oncology,Virtual,3,Average service,2025-05-19,average service,Negative
+969,Cardiology,Virtual,2,Not satisfied,2025-01-29,not satisfied,Negative
+970,ER,Virtual,4,Timely treatment,2025-08-05,timely treatment,Neutral
+971,ER,Virtual,4,Staff helpful,2026-01-26,staff helpful,Neutral
+972,Orthopedics,In-person,3,Nothing special,2025-07-08,nothing special,Positive
+973,Neurology,In-person,1,Treatment delayed,2025-12-13,treatment delayed,Neutral
+974,Oncology,In-person,4,Good experience,2025-07-08,good experience,Positive
+975,Oncology,In-person,1,Very poor service,2026-01-25,very poor service,Negative
+976,ER,In-person,3,Okay experience,2025-07-21,okay experience,Positive
+977,Oncology,In-person,2,Poor experience,2025-06-15,poor experience,Negative
+978,Oncology,In-person,5,Friendly staff,2026-01-22,friendly staff,Positive
+979,ER,In-person,2,Confusing instructions,2025-08-17,confusing instructions,Negative
+980,Oncology,In-person,4,Staff helpful,2025-10-02,staff helpful,Neutral
+981,Cardiology,In-person,2,Not satisfied,2025-09-21,not satisfied,Negative
+982,Orthopedics,Virtual,2,Not satisfied,2026-01-12,not satisfied,Negative
+983,Orthopedics,Virtual,2,Confusing instructions,2026-01-13,confusing instructions,Negative
+984,Neurology,In-person,4,Good experience,2025-12-18,good experience,Positive
+985,Orthopedics,Virtual,1,Very poor service,2025-07-29,very poor service,Negative
+986,Orthopedics,In-person,1,Miscommunication,2025-02-18,miscommunication,Neutral
+987,Neurology,Virtual,4,Staff helpful,2025-06-14,staff helpful,Neutral
+988,Neurology,In-person,1,Staff unhelpful,2025-05-09,staff unhelpful,Neutral
+989,Orthopedics,Virtual,5,Friendly staff,2025-03-11,friendly staff,Positive
+990,Oncology,In-person,2,Poor experience,2025-12-11,poor experience,Negative
+991,Orthopedics,In-person,4,Staff helpful,2025-02-07,staff helpful,Neutral
+992,Cardiology,Virtual,2,Not satisfied,2025-05-28,not satisfied,Negative
+993,Orthopedics,Virtual,5,Very satisfied,2025-06-09,very satisfied,Positive
+994,Orthopedics,Virtual,5,Excellent service,2025-05-30,excellent service,Positive
+995,Cardiology,Virtual,4,Staff helpful,2025-06-07,staff helpful,Neutral
+996,Cardiology,Virtual,1,Treatment delayed,2025-06-09,treatment delayed,Neutral
+997,Cardiology,In-person,4,Good experience,2025-06-12,good experience,Positive
+998,ER,Virtual,5,Very satisfied,2025-09-03,very satisfied,Positive
+999,Oncology,In-person,5,Very satisfied,2025-12-04,very satisfied,Positive
+1000,Neurology,Virtual,2,Poor experience,2026-01-18,poor experience,Negative

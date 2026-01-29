@@ -1,0 +1,1001 @@
+patient_id,department,visit_type,rating,feedback_text,date
+1,Cardiology,Virtual,3,Nothing special,2025-10-16
+2,Neurology,Virtual,3,Okay experience,2025-11-01
+3,Oncology,In-person,5,Quick response,2025-02-11
+4,Neurology,In-person,1,Staff unhelpful,2025-10-17
+5,ER,In-person,5,Friendly staff,2025-09-18
+6,Oncology,In-person,3,Nothing special,2025-08-04
+7,Oncology,In-person,2,Confusing instructions,2025-05-25
+8,Cardiology,In-person,1,Staff unhelpful,2025-03-10
+9,Oncology,In-person,2,Waiting too long,2026-01-03
+10,Cardiology,In-person,2,Waiting too long,2025-04-01
+11,Oncology,In-person,5,Quick response,2025-12-07
+12,Orthopedics,Virtual,5,Friendly staff,2025-12-26
+13,ER,In-person,5,Excellent service,2025-10-03
+14,Cardiology,Virtual,1,Staff unhelpful,2025-05-08
+15,Oncology,Virtual,4,Staff helpful,2025-04-29
+16,Cardiology,In-person,5,Excellent service,2025-04-09
+17,Neurology,In-person,2,Poor experience,2025-10-09
+18,ER,In-person,1,Miscommunication,2026-01-28
+19,ER,In-person,2,Waiting too long,2025-08-12
+20,Oncology,In-person,5,Excellent service,2025-02-04
+21,Cardiology,In-person,1,Staff unhelpful,2025-11-12
+22,Oncology,Virtual,2,Not satisfied,2025-04-22
+23,Oncology,In-person,3,Okay experience,2025-06-27
+24,Oncology,Virtual,4,Staff helpful,2025-09-10
+25,Oncology,Virtual,3,Okay experience,2025-10-24
+26,Oncology,Virtual,1,Long wait time,2025-08-10
+27,Neurology,In-person,1,Treatment delayed,2025-08-10
+28,Cardiology,In-person,5,Friendly staff,2025-05-10
+29,ER,In-person,5,Very satisfied,2025-05-23
+30,Cardiology,Virtual,3,Average service,2025-02-14
+31,Neurology,Virtual,1,Long wait time,2025-12-09
+32,ER,Virtual,2,Not satisfied,2025-07-12
+33,Cardiology,In-person,4,Staff helpful,2025-09-06
+34,Orthopedics,In-person,2,Confusing instructions,2025-05-13
+35,Oncology,Virtual,2,Confusing instructions,2025-08-11
+36,ER,Virtual,2,Not satisfied,2025-11-08
+37,Neurology,In-person,2,Waiting too long,2025-07-03
+38,Oncology,In-person,4,Good experience,2025-05-11
+39,Neurology,In-person,3,Nothing special,2025-10-14
+40,Neurology,Virtual,2,Waiting too long,2025-08-28
+41,Orthopedics,In-person,2,Waiting too long,2025-10-16
+42,Neurology,Virtual,1,Very poor service,2025-12-04
+43,Neurology,Virtual,4,Timely treatment,2025-12-17
+44,Cardiology,In-person,4,Staff helpful,2025-03-28
+45,Orthopedics,Virtual,5,Excellent service,2026-01-28
+46,ER,Virtual,5,Excellent service,2025-02-14
+47,Neurology,In-person,3,Average service,2025-11-23
+48,Oncology,Virtual,3,Nothing special,2025-05-03
+49,Orthopedics,Virtual,5,Excellent service,2025-09-30
+50,Neurology,Virtual,4,Staff helpful,2025-05-04
+51,Orthopedics,Virtual,4,Timely treatment,2025-07-12
+52,Neurology,In-person,5,Quick response,2025-08-28
+53,Neurology,In-person,5,Friendly staff,2025-02-26
+54,Neurology,In-person,4,Good experience,2026-01-11
+55,ER,Virtual,3,Average service,2025-07-27
+56,Orthopedics,In-person,5,Excellent service,2025-05-13
+57,Orthopedics,In-person,2,Waiting too long,2025-07-18
+58,Oncology,Virtual,3,Nothing special,2026-01-02
+59,Cardiology,Virtual,4,Staff helpful,2025-04-23
+60,Orthopedics,Virtual,2,Confusing instructions,2025-11-08
+61,Cardiology,In-person,1,Staff unhelpful,2025-05-13
+62,Cardiology,Virtual,4,Staff helpful,2025-12-01
+63,Orthopedics,Virtual,3,Nothing special,2025-06-01
+64,Orthopedics,Virtual,3,Okay experience,2025-06-04
+65,Neurology,In-person,3,Average service,2025-02-23
+66,Cardiology,Virtual,5,Friendly staff,2025-02-14
+67,Oncology,In-person,3,Nothing special,2025-08-19
+68,Orthopedics,Virtual,1,Miscommunication,2025-05-04
+69,Cardiology,In-person,5,Excellent service,2025-06-21
+70,Cardiology,In-person,4,Timely treatment,2025-11-14
+71,Neurology,In-person,3,Nothing special,2025-06-16
+72,Orthopedics,In-person,5,Excellent service,2025-11-03
+73,Cardiology,Virtual,2,Confusing instructions,2025-05-14
+74,Cardiology,In-person,3,Nothing special,2025-04-22
+75,Neurology,In-person,3,Nothing special,2025-11-07
+76,Orthopedics,Virtual,3,Nothing special,2025-07-03
+77,Neurology,Virtual,2,Confusing instructions,2025-11-18
+78,ER,In-person,5,Excellent service,2026-01-02
+79,Oncology,Virtual,2,Not satisfied,2025-08-22
+80,Neurology,In-person,2,Confusing instructions,2025-03-29
+81,Orthopedics,Virtual,3,Okay experience,2025-02-11
+82,ER,Virtual,5,Excellent service,2025-10-09
+83,Oncology,In-person,3,Okay experience,2025-06-21
+84,Orthopedics,Virtual,3,Nothing special,2025-05-12
+85,Oncology,Virtual,3,Average service,2025-03-30
+86,Orthopedics,In-person,3,Average service,2025-08-28
+87,Cardiology,Virtual,1,Staff unhelpful,2025-12-18
+88,Cardiology,Virtual,3,Average service,2025-12-17
+89,ER,In-person,2,Confusing instructions,2025-05-28
+90,ER,Virtual,3,Average service,2025-06-29
+91,Cardiology,Virtual,1,Miscommunication,2025-11-24
+92,Neurology,In-person,5,Quick response,2025-03-20
+93,Oncology,Virtual,1,Treatment delayed,2025-08-09
+94,Orthopedics,In-person,4,Timely treatment,2025-03-12
+95,ER,Virtual,3,Okay experience,2025-12-06
+96,Orthopedics,In-person,1,Long wait time,2025-03-01
+97,Neurology,Virtual,4,Good experience,2025-07-24
+98,ER,Virtual,3,Nothing special,2025-05-15
+99,Orthopedics,In-person,4,Timely treatment,2025-05-25
+100,Cardiology,Virtual,3,Nothing special,2025-12-29
+101,Neurology,In-person,3,Okay experience,2025-07-01
+102,Cardiology,Virtual,4,Staff helpful,2025-11-24
+103,Orthopedics,In-person,3,Average service,2025-06-01
+104,Oncology,In-person,4,Good experience,2025-02-09
+105,Oncology,In-person,4,Good experience,2025-04-11
+106,Cardiology,Virtual,1,Treatment delayed,2025-10-02
+107,Cardiology,Virtual,5,Friendly staff,2025-05-05
+108,Cardiology,In-person,4,Timely treatment,2025-11-04
+109,ER,Virtual,1,Very poor service,2025-12-22
+110,Cardiology,In-person,4,Good experience,2025-12-22
+111,Oncology,In-person,4,Timely treatment,2025-05-17
+112,Neurology,Virtual,4,Good experience,2025-10-10
+113,Neurology,Virtual,5,Quick response,2025-02-02
+114,Oncology,In-person,4,Timely treatment,2025-02-16
+115,Oncology,Virtual,2,Not satisfied,2025-11-11
+116,Cardiology,Virtual,5,Friendly staff,2025-03-15
+117,ER,In-person,5,Very satisfied,2025-10-31
+118,Cardiology,Virtual,3,Average service,2025-12-30
+119,Cardiology,Virtual,1,Very poor service,2025-11-01
+120,ER,Virtual,2,Poor experience,2025-07-19
+121,ER,In-person,3,Average service,2025-11-09
+122,ER,In-person,5,Very satisfied,2025-03-03
+123,ER,In-person,1,Miscommunication,2025-06-22
+124,Orthopedics,Virtual,4,Timely treatment,2025-05-14
+125,ER,In-person,3,Okay experience,2026-01-23
+126,Neurology,Virtual,4,Timely treatment,2025-03-20
+127,Cardiology,In-person,3,Nothing special,2026-01-07
+128,ER,In-person,1,Miscommunication,2025-02-04
+129,Oncology,Virtual,2,Waiting too long,2025-04-05
+130,ER,In-person,5,Very satisfied,2026-01-17
+131,Orthopedics,In-person,5,Friendly staff,2025-11-08
+132,Neurology,In-person,4,Good experience,2025-05-08
+133,Neurology,Virtual,4,Staff helpful,2025-11-07
+134,Neurology,Virtual,4,Staff helpful,2025-02-03
+135,Cardiology,In-person,2,Waiting too long,2025-07-22
+136,Neurology,In-person,2,Waiting too long,2025-08-10
+137,Oncology,Virtual,4,Staff helpful,2025-11-01
+138,Neurology,Virtual,4,Timely treatment,2025-03-31
+139,Neurology,Virtual,4,Timely treatment,2025-01-29
+140,ER,In-person,3,Nothing special,2025-11-18
+141,ER,Virtual,4,Timely treatment,2025-10-22
+142,Cardiology,Virtual,5,Very satisfied,2025-08-12
+143,Orthopedics,Virtual,2,Not satisfied,2025-02-04
+144,Cardiology,In-person,1,Treatment delayed,2025-01-30
+145,Oncology,Virtual,5,Friendly staff,2025-02-01
+146,Orthopedics,In-person,1,Long wait time,2025-06-01
+147,Cardiology,Virtual,3,Average service,2025-02-18
+148,Oncology,Virtual,3,Okay experience,2025-09-13
+149,Neurology,Virtual,5,Quick response,2026-01-10
+150,Oncology,Virtual,1,Very poor service,2025-06-25
+151,ER,In-person,5,Excellent service,2025-12-29
+152,Orthopedics,In-person,4,Staff helpful,2025-08-13
+153,ER,In-person,5,Friendly staff,2025-04-10
+154,Cardiology,In-person,4,Timely treatment,2026-01-08
+155,Orthopedics,Virtual,2,Waiting too long,2025-07-23
+156,ER,Virtual,1,Long wait time,2025-03-18
+157,Orthopedics,Virtual,3,Nothing special,2025-04-12
+158,ER,Virtual,4,Staff helpful,2025-11-24
+159,Cardiology,In-person,3,Okay experience,2025-04-25
+160,Neurology,Virtual,2,Confusing instructions,2025-09-12
+161,Oncology,Virtual,4,Good experience,2025-11-20
+162,Cardiology,In-person,4,Good experience,2025-04-13
+163,Cardiology,Virtual,4,Timely treatment,2025-06-12
+164,Oncology,Virtual,1,Staff unhelpful,2025-09-27
+165,Cardiology,Virtual,1,Treatment delayed,2025-04-21
+166,ER,In-person,4,Good experience,2025-05-01
+167,Neurology,Virtual,5,Excellent service,2025-12-13
+168,ER,In-person,4,Staff helpful,2025-05-19
+169,ER,In-person,2,Not satisfied,2025-12-06
+170,Orthopedics,In-person,3,Average service,2025-02-28
+171,Orthopedics,In-person,4,Staff helpful,2025-05-04
+172,Oncology,In-person,2,Not satisfied,2025-08-22
+173,Orthopedics,In-person,5,Very satisfied,2025-07-22
+174,Neurology,Virtual,5,Very satisfied,2025-09-15
+175,Neurology,In-person,4,Good experience,2026-01-22
+176,Oncology,In-person,5,Friendly staff,2025-03-16
+177,Neurology,Virtual,5,Quick response,2025-06-20
+178,Oncology,In-person,2,Poor experience,2025-11-18
+179,Orthopedics,In-person,5,Excellent service,2025-12-16
+180,Orthopedics,In-person,4,Staff helpful,2025-06-27
+181,ER,In-person,2,Waiting too long,2025-12-30
+182,Oncology,Virtual,1,Staff unhelpful,2025-12-24
+183,Orthopedics,Virtual,2,Confusing instructions,2025-07-18
+184,Neurology,Virtual,2,Poor experience,2025-08-27
+185,Cardiology,In-person,2,Not satisfied,2025-04-12
+186,Cardiology,In-person,2,Poor experience,2025-05-08
+187,Oncology,In-person,3,Okay experience,2025-10-08
+188,Cardiology,In-person,3,Okay experience,2025-06-06
+189,Orthopedics,Virtual,2,Not satisfied,2025-10-27
+190,Neurology,In-person,1,Treatment delayed,2025-02-14
+191,Cardiology,In-person,4,Good experience,2025-08-05
+192,Oncology,Virtual,5,Quick response,2025-10-14
+193,Neurology,In-person,1,Miscommunication,2025-03-06
+194,Neurology,In-person,1,Very poor service,2025-05-22
+195,ER,In-person,5,Very satisfied,2025-11-02
+196,ER,Virtual,4,Good experience,2026-01-15
+197,Cardiology,In-person,2,Confusing instructions,2025-10-29
+198,Neurology,Virtual,2,Poor experience,2025-04-09
+199,Cardiology,Virtual,2,Confusing instructions,2025-11-07
+200,Orthopedics,In-person,5,Excellent service,2026-01-23
+201,Oncology,Virtual,1,Very poor service,2025-10-29
+202,Oncology,Virtual,3,Nothing special,2025-05-29
+203,Cardiology,In-person,4,Good experience,2025-02-07
+204,Oncology,Virtual,1,Staff unhelpful,2025-11-15
+205,Orthopedics,Virtual,5,Excellent service,2026-01-09
+206,ER,In-person,3,Nothing special,2025-05-22
+207,Orthopedics,In-person,5,Excellent service,2025-03-16
+208,Cardiology,In-person,2,Confusing instructions,2025-04-19
+209,Orthopedics,Virtual,1,Staff unhelpful,2025-12-13
+210,Neurology,In-person,1,Long wait time,2025-07-28
+211,Oncology,In-person,5,Quick response,2025-03-05
+212,Oncology,In-person,2,Not satisfied,2025-04-23
+213,ER,In-person,4,Staff helpful,2025-07-26
+214,Cardiology,In-person,1,Treatment delayed,2025-09-14
+215,Orthopedics,Virtual,5,Very satisfied,2025-12-12
+216,ER,In-person,3,Nothing special,2025-02-15
+217,Neurology,In-person,4,Good experience,2025-08-20
+218,Neurology,Virtual,1,Treatment delayed,2025-10-24
+219,ER,In-person,4,Timely treatment,2025-11-25
+220,Oncology,In-person,5,Excellent service,2025-05-19
+221,ER,Virtual,5,Very satisfied,2025-09-16
+222,Cardiology,In-person,2,Poor experience,2025-02-20
+223,Orthopedics,In-person,5,Quick response,2025-05-20
+224,Cardiology,Virtual,3,Nothing special,2025-06-12
+225,Neurology,In-person,5,Quick response,2025-05-11
+226,Cardiology,Virtual,2,Waiting too long,2025-07-01
+227,ER,In-person,3,Nothing special,2025-09-15
+228,ER,Virtual,1,Very poor service,2025-04-27
+229,Oncology,Virtual,5,Quick response,2025-01-29
+230,Orthopedics,Virtual,4,Staff helpful,2025-11-07
+231,Oncology,In-person,5,Friendly staff,2025-08-01
+232,Cardiology,Virtual,4,Timely treatment,2025-03-20
+233,Orthopedics,In-person,1,Miscommunication,2025-03-10
+234,ER,In-person,2,Waiting too long,2025-09-18
+235,ER,Virtual,2,Waiting too long,2025-10-04
+236,Cardiology,Virtual,3,Okay experience,2025-11-08
+237,Neurology,Virtual,5,Very satisfied,2025-11-11
+238,ER,Virtual,4,Timely treatment,2025-08-30
+239,Orthopedics,Virtual,1,Long wait time,2025-06-30
+240,Oncology,Virtual,5,Quick response,2025-04-01
+241,ER,In-person,4,Timely treatment,2025-02-05
+242,Cardiology,Virtual,2,Not satisfied,2025-03-01
+243,Oncology,Virtual,3,Okay experience,2025-09-08
+244,ER,In-person,1,Staff unhelpful,2025-02-22
+245,Orthopedics,Virtual,2,Confusing instructions,2025-06-04
+246,Cardiology,Virtual,1,Staff unhelpful,2025-05-06
+247,Neurology,In-person,1,Miscommunication,2025-03-04
+248,Cardiology,In-person,2,Waiting too long,2025-07-18
+249,Oncology,In-person,5,Quick response,2025-05-30
+250,Neurology,In-person,1,Treatment delayed,2025-03-03
+251,Orthopedics,Virtual,5,Very satisfied,2025-12-15
+252,Oncology,In-person,4,Good experience,2025-02-18
+253,ER,Virtual,4,Timely treatment,2025-10-08
+254,Oncology,Virtual,4,Staff helpful,2025-10-10
+255,Cardiology,Virtual,1,Very poor service,2025-04-23
+256,Orthopedics,In-person,5,Excellent service,2025-06-07
+257,Neurology,Virtual,2,Waiting too long,2025-11-05
+258,Neurology,In-person,4,Good experience,2025-08-21
+259,Oncology,Virtual,5,Excellent service,2025-12-22
+260,Orthopedics,Virtual,1,Staff unhelpful,2025-10-02
+261,Neurology,In-person,5,Excellent service,2025-07-02
+262,Orthopedics,In-person,4,Staff helpful,2025-11-05
+263,Oncology,In-person,2,Confusing instructions,2026-01-22
+264,Cardiology,Virtual,2,Confusing instructions,2025-11-22
+265,Orthopedics,Virtual,5,Excellent service,2025-03-28
+266,ER,In-person,3,Average service,2025-03-29
+267,Orthopedics,In-person,5,Friendly staff,2025-09-19
+268,Cardiology,In-person,2,Confusing instructions,2025-12-04
+269,Cardiology,Virtual,3,Okay experience,2025-09-20
+270,ER,Virtual,3,Average service,2025-07-04
+271,Orthopedics,In-person,3,Okay experience,2025-12-09
+272,Neurology,In-person,4,Staff helpful,2025-06-15
+273,Oncology,In-person,5,Friendly staff,2025-10-21
+274,Orthopedics,In-person,1,Long wait time,2025-08-28
+275,Oncology,Virtual,5,Excellent service,2025-11-05
+276,Oncology,In-person,4,Good experience,2025-05-22
+277,Orthopedics,Virtual,3,Okay experience,2025-11-20
+278,Orthopedics,Virtual,2,Poor experience,2025-07-31
+279,Neurology,Virtual,4,Good experience,2025-07-11
+280,Orthopedics,Virtual,3,Okay experience,2025-06-11
+281,Oncology,In-person,1,Miscommunication,2025-06-03
+282,Cardiology,In-person,5,Very satisfied,2025-04-02
+283,Oncology,Virtual,4,Staff helpful,2025-11-19
+284,Orthopedics,Virtual,4,Timely treatment,2025-10-03
+285,Neurology,Virtual,5,Very satisfied,2025-09-18
+286,Cardiology,Virtual,2,Not satisfied,2025-07-25
+287,Cardiology,In-person,2,Not satisfied,2025-03-04
+288,Orthopedics,Virtual,1,Very poor service,2025-11-01
+289,Cardiology,Virtual,3,Okay experience,2025-05-08
+290,Oncology,In-person,5,Excellent service,2025-08-09
+291,Cardiology,In-person,5,Quick response,2025-11-25
+292,Oncology,Virtual,4,Timely treatment,2025-03-20
+293,ER,In-person,5,Quick response,2025-08-04
+294,Oncology,Virtual,2,Poor experience,2025-04-13
+295,Neurology,In-person,3,Nothing special,2025-09-12
+296,Orthopedics,In-person,2,Poor experience,2026-01-22
+297,Orthopedics,Virtual,3,Nothing special,2025-02-24
+298,Oncology,In-person,5,Quick response,2025-10-20
+299,Cardiology,In-person,2,Waiting too long,2025-08-08
+300,ER,Virtual,3,Nothing special,2025-04-16
+301,Neurology,In-person,2,Waiting too long,2025-02-12
+302,ER,Virtual,5,Quick response,2025-04-18
+303,ER,In-person,3,Nothing special,2025-05-22
+304,Orthopedics,Virtual,3,Okay experience,2025-07-01
+305,Cardiology,Virtual,3,Average service,2025-06-06
+306,Orthopedics,Virtual,2,Waiting too long,2025-02-28
+307,Orthopedics,Virtual,2,Poor experience,2025-10-01
+308,Neurology,Virtual,1,Miscommunication,2025-05-12
+309,ER,In-person,5,Very satisfied,2025-10-18
+310,Oncology,In-person,4,Timely treatment,2025-08-29
+311,ER,In-person,5,Quick response,2026-01-01
+312,Neurology,In-person,1,Long wait time,2025-06-08
+313,Orthopedics,Virtual,4,Good experience,2025-11-28
+314,ER,Virtual,5,Very satisfied,2025-02-14
+315,Cardiology,In-person,1,Very poor service,2025-11-27
+316,Neurology,In-person,1,Long wait time,2025-05-03
+317,Neurology,Virtual,4,Staff helpful,2025-09-25
+318,Neurology,Virtual,2,Confusing instructions,2025-07-29
+319,Oncology,Virtual,2,Poor experience,2025-07-26
+320,Oncology,In-person,1,Staff unhelpful,2025-11-10
+321,Neurology,Virtual,2,Waiting too long,2025-07-14
+322,Oncology,Virtual,1,Long wait time,2025-02-23
+323,Neurology,Virtual,1,Miscommunication,2026-01-08
+324,ER,Virtual,1,Miscommunication,2025-12-17
+325,Neurology,In-person,5,Very satisfied,2025-05-31
+326,Neurology,In-person,1,Treatment delayed,2026-01-23
+327,Neurology,In-person,3,Average service,2025-04-14
+328,Neurology,Virtual,3,Average service,2025-05-19
+329,Orthopedics,Virtual,2,Waiting too long,2025-06-17
+330,Cardiology,Virtual,1,Very poor service,2025-09-15
+331,ER,Virtual,3,Okay experience,2025-11-01
+332,Oncology,Virtual,5,Friendly staff,2025-10-23
+333,Orthopedics,Virtual,1,Long wait time,2025-12-19
+334,Neurology,In-person,4,Timely treatment,2025-10-15
+335,ER,Virtual,1,Treatment delayed,2025-11-06
+336,Oncology,In-person,5,Very satisfied,2025-06-06
+337,Orthopedics,Virtual,1,Staff unhelpful,2025-10-03
+338,Cardiology,In-person,4,Good experience,2025-09-13
+339,Neurology,Virtual,2,Waiting too long,2025-03-21
+340,Neurology,In-person,4,Timely treatment,2026-01-08
+341,ER,In-person,1,Staff unhelpful,2025-07-27
+342,Oncology,In-person,2,Confusing instructions,2025-04-26
+343,Neurology,In-person,4,Good experience,2025-05-24
+344,Cardiology,In-person,5,Friendly staff,2025-03-05
+345,Oncology,In-person,5,Quick response,2025-05-02
+346,Neurology,In-person,4,Good experience,2025-06-13
+347,Cardiology,In-person,5,Excellent service,2025-03-06
+348,Oncology,Virtual,2,Not satisfied,2026-01-24
+349,Neurology,In-person,2,Waiting too long,2025-04-21
+350,Neurology,In-person,3,Okay experience,2025-10-27
+351,Cardiology,Virtual,2,Waiting too long,2025-05-25
+352,ER,In-person,1,Treatment delayed,2025-04-02
+353,Cardiology,In-person,2,Confusing instructions,2025-05-07
+354,Cardiology,In-person,4,Staff helpful,2025-08-02
+355,ER,Virtual,1,Miscommunication,2025-02-01
+356,Cardiology,In-person,2,Confusing instructions,2025-06-17
+357,Oncology,Virtual,3,Nothing special,2025-03-08
+358,Orthopedics,Virtual,1,Treatment delayed,2025-03-23
+359,Cardiology,Virtual,3,Nothing special,2025-07-04
+360,Neurology,Virtual,5,Quick response,2026-01-12
+361,Neurology,Virtual,1,Long wait time,2025-10-23
+362,ER,In-person,3,Okay experience,2025-06-08
+363,ER,In-person,2,Poor experience,2026-01-13
+364,ER,Virtual,5,Quick response,2025-03-12
+365,Neurology,In-person,4,Timely treatment,2025-06-13
+366,Neurology,In-person,5,Excellent service,2025-12-29
+367,Neurology,In-person,3,Nothing special,2025-04-22
+368,ER,In-person,2,Waiting too long,2025-08-27
+369,Oncology,Virtual,4,Good experience,2025-11-02
+370,Oncology,Virtual,1,Miscommunication,2025-10-11
+371,Oncology,Virtual,3,Nothing special,2025-06-29
+372,ER,In-person,5,Very satisfied,2025-08-21
+373,Oncology,In-person,4,Timely treatment,2025-04-17
+374,Neurology,Virtual,4,Timely treatment,2025-09-18
+375,ER,In-person,2,Poor experience,2025-10-21
+376,Neurology,In-person,3,Okay experience,2025-12-08
+377,Orthopedics,In-person,3,Okay experience,2026-01-15
+378,Neurology,In-person,5,Excellent service,2025-11-01
+379,Orthopedics,Virtual,1,Staff unhelpful,2025-11-02
+380,Oncology,Virtual,5,Friendly staff,2026-01-17
+381,Orthopedics,In-person,4,Staff helpful,2025-06-24
+382,Neurology,Virtual,2,Waiting too long,2025-10-19
+383,Neurology,Virtual,2,Waiting too long,2025-10-18
+384,Neurology,In-person,2,Not satisfied,2025-05-17
+385,Cardiology,In-person,3,Nothing special,2025-03-11
+386,Orthopedics,In-person,5,Excellent service,2026-01-02
+387,Neurology,In-person,5,Quick response,2025-11-24
+388,Cardiology,Virtual,2,Not satisfied,2025-02-25
+389,Orthopedics,In-person,1,Long wait time,2025-03-03
+390,Cardiology,Virtual,3,Nothing special,2025-08-23
+391,ER,Virtual,5,Friendly staff,2025-09-28
+392,Neurology,Virtual,2,Waiting too long,2025-10-17
+393,Oncology,In-person,4,Staff helpful,2025-11-25
+394,Cardiology,In-person,3,Nothing special,2025-02-20
+395,Neurology,In-person,4,Good experience,2025-02-24
+396,Cardiology,Virtual,4,Staff helpful,2025-01-29
+397,Neurology,Virtual,5,Very satisfied,2025-10-24
+398,ER,Virtual,5,Friendly staff,2025-11-20
+399,ER,In-person,3,Average service,2025-09-17
+400,Orthopedics,In-person,4,Timely treatment,2025-05-05
+401,Cardiology,Virtual,5,Excellent service,2025-03-02
+402,Orthopedics,Virtual,5,Excellent service,2025-10-12
+403,ER,In-person,4,Good experience,2025-07-10
+404,Neurology,Virtual,1,Treatment delayed,2026-01-26
+405,Orthopedics,Virtual,4,Staff helpful,2025-08-18
+406,Oncology,Virtual,1,Miscommunication,2025-07-12
+407,Neurology,In-person,5,Very satisfied,2025-05-18
+408,Oncology,Virtual,1,Long wait time,2025-05-10
+409,Orthopedics,In-person,3,Okay experience,2025-05-25
+410,Neurology,Virtual,4,Staff helpful,2025-02-25
+411,ER,In-person,4,Good experience,2025-05-27
+412,Oncology,Virtual,4,Good experience,2025-04-22
+413,Neurology,Virtual,4,Staff helpful,2025-09-09
+414,Cardiology,Virtual,1,Treatment delayed,2025-09-26
+415,Cardiology,In-person,2,Waiting too long,2025-09-18
+416,Cardiology,Virtual,1,Very poor service,2025-10-09
+417,Orthopedics,In-person,3,Okay experience,2025-09-03
+418,ER,In-person,3,Okay experience,2025-06-13
+419,ER,In-person,5,Very satisfied,2025-11-05
+420,Neurology,In-person,4,Staff helpful,2025-03-01
+421,Neurology,Virtual,1,Very poor service,2025-02-01
+422,Cardiology,In-person,1,Treatment delayed,2025-08-10
+423,ER,Virtual,3,Average service,2025-07-16
+424,ER,In-person,1,Long wait time,2025-10-12
+425,Neurology,Virtual,1,Treatment delayed,2025-08-01
+426,Neurology,Virtual,3,Nothing special,2025-11-10
+427,Neurology,Virtual,5,Friendly staff,2025-09-15
+428,Neurology,In-person,2,Poor experience,2025-09-09
+429,Cardiology,Virtual,3,Okay experience,2025-03-19
+430,Neurology,Virtual,3,Average service,2025-10-05
+431,Orthopedics,Virtual,3,Nothing special,2025-07-02
+432,Neurology,In-person,3,Average service,2025-09-07
+433,Orthopedics,In-person,4,Good experience,2025-07-07
+434,Neurology,Virtual,1,Staff unhelpful,2025-05-19
+435,Cardiology,Virtual,1,Treatment delayed,2025-07-10
+436,ER,Virtual,5,Friendly staff,2025-12-15
+437,Neurology,Virtual,4,Timely treatment,2025-12-29
+438,Cardiology,Virtual,4,Timely treatment,2026-01-20
+439,ER,Virtual,4,Staff helpful,2025-11-29
+440,Oncology,Virtual,3,Okay experience,2025-02-28
+441,Oncology,Virtual,5,Quick response,2025-12-29
+442,ER,Virtual,4,Staff helpful,2025-11-07
+443,Oncology,In-person,1,Staff unhelpful,2025-06-14
+444,Oncology,In-person,5,Excellent service,2025-12-12
+445,Orthopedics,Virtual,3,Average service,2025-10-16
+446,Oncology,Virtual,1,Treatment delayed,2025-06-16
+447,Oncology,In-person,4,Timely treatment,2025-08-17
+448,Neurology,In-person,3,Nothing special,2025-11-25
+449,Oncology,Virtual,3,Average service,2025-09-13
+450,Oncology,Virtual,5,Quick response,2026-01-04
+451,Neurology,In-person,3,Okay experience,2025-03-29
+452,ER,In-person,4,Timely treatment,2025-05-26
+453,Cardiology,Virtual,1,Staff unhelpful,2025-12-11
+454,Neurology,In-person,5,Friendly staff,2026-01-03
+455,Oncology,Virtual,5,Friendly staff,2025-03-11
+456,Orthopedics,In-person,1,Long wait time,2025-08-04
+457,ER,In-person,4,Good experience,2025-10-10
+458,Orthopedics,In-person,4,Good experience,2025-04-10
+459,Neurology,In-person,2,Waiting too long,2025-04-03
+460,Oncology,In-person,2,Not satisfied,2025-05-05
+461,Cardiology,Virtual,3,Average service,2025-08-18
+462,Orthopedics,Virtual,5,Excellent service,2025-07-19
+463,Oncology,In-person,2,Not satisfied,2025-10-31
+464,Orthopedics,In-person,3,Average service,2025-11-17
+465,ER,In-person,3,Nothing special,2025-10-04
+466,Cardiology,Virtual,5,Quick response,2025-03-22
+467,Neurology,In-person,5,Excellent service,2025-02-24
+468,Oncology,In-person,2,Waiting too long,2025-02-27
+469,Oncology,In-person,1,Treatment delayed,2025-06-07
+470,Orthopedics,Virtual,5,Very satisfied,2025-11-02
+471,Cardiology,In-person,2,Not satisfied,2026-01-15
+472,Oncology,Virtual,1,Treatment delayed,2025-03-06
+473,Oncology,In-person,1,Very poor service,2026-01-27
+474,ER,Virtual,1,Treatment delayed,2025-06-18
+475,Cardiology,In-person,1,Very poor service,2025-12-13
+476,ER,In-person,3,Average service,2026-01-26
+477,Neurology,In-person,5,Friendly staff,2025-05-05
+478,Neurology,In-person,2,Not satisfied,2025-02-27
+479,Neurology,In-person,5,Very satisfied,2025-05-31
+480,Neurology,Virtual,1,Miscommunication,2025-10-14
+481,Cardiology,In-person,1,Staff unhelpful,2025-05-06
+482,Oncology,In-person,1,Treatment delayed,2025-02-23
+483,Orthopedics,In-person,5,Friendly staff,2025-07-02
+484,Neurology,Virtual,3,Okay experience,2025-05-31
+485,Cardiology,Virtual,2,Not satisfied,2025-09-15
+486,Neurology,Virtual,3,Average service,2025-09-08
+487,Neurology,Virtual,4,Good experience,2025-06-19
+488,Orthopedics,Virtual,5,Quick response,2025-10-08
+489,Oncology,In-person,1,Treatment delayed,2025-12-21
+490,Oncology,In-person,3,Nothing special,2026-01-19
+491,ER,Virtual,4,Staff helpful,2026-01-16
+492,Orthopedics,Virtual,5,Excellent service,2025-04-30
+493,Neurology,In-person,5,Very satisfied,2025-04-20
+494,ER,In-person,5,Very satisfied,2025-05-11
+495,Orthopedics,Virtual,4,Timely treatment,2025-02-13
+496,Neurology,In-person,3,Nothing special,2025-06-09
+497,Oncology,In-person,4,Timely treatment,2025-10-27
+498,Cardiology,Virtual,4,Staff helpful,2025-09-23
+499,Cardiology,In-person,1,Treatment delayed,2025-08-27
+500,Orthopedics,Virtual,5,Excellent service,2025-12-25
+501,ER,In-person,2,Not satisfied,2025-03-20
+502,Cardiology,In-person,4,Good experience,2025-10-18
+503,Cardiology,Virtual,5,Very satisfied,2025-11-19
+504,Oncology,In-person,4,Timely treatment,2025-10-29
+505,Orthopedics,In-person,1,Very poor service,2025-06-24
+506,Neurology,In-person,3,Average service,2025-05-22
+507,Neurology,In-person,5,Excellent service,2025-02-09
+508,ER,In-person,1,Treatment delayed,2025-06-17
+509,ER,In-person,5,Friendly staff,2025-04-12
+510,Cardiology,Virtual,3,Nothing special,2025-09-05
+511,Cardiology,In-person,2,Confusing instructions,2025-08-10
+512,Neurology,In-person,3,Nothing special,2026-01-21
+513,Oncology,In-person,5,Very satisfied,2025-09-01
+514,Neurology,Virtual,2,Confusing instructions,2025-02-19
+515,Neurology,Virtual,3,Average service,2025-11-05
+516,Cardiology,Virtual,1,Treatment delayed,2025-08-08
+517,Cardiology,Virtual,3,Average service,2025-03-24
+518,Neurology,Virtual,1,Miscommunication,2025-06-22
+519,Cardiology,Virtual,2,Not satisfied,2025-08-01
+520,Orthopedics,In-person,5,Friendly staff,2026-01-13
+521,Orthopedics,Virtual,2,Not satisfied,2025-12-09
+522,Neurology,Virtual,5,Excellent service,2025-06-10
+523,Cardiology,In-person,3,Nothing special,2025-06-14
+524,Oncology,Virtual,5,Quick response,2025-02-20
+525,Cardiology,Virtual,4,Timely treatment,2026-01-08
+526,ER,Virtual,5,Very satisfied,2026-01-09
+527,Oncology,Virtual,3,Nothing special,2025-04-17
+528,ER,In-person,4,Good experience,2025-12-28
+529,Orthopedics,Virtual,2,Waiting too long,2025-09-07
+530,Orthopedics,In-person,1,Treatment delayed,2025-07-22
+531,ER,Virtual,3,Okay experience,2025-05-29
+532,Neurology,Virtual,2,Poor experience,2025-07-03
+533,Oncology,Virtual,2,Waiting too long,2025-12-17
+534,ER,Virtual,2,Confusing instructions,2025-11-12
+535,Cardiology,Virtual,4,Staff helpful,2025-11-05
+536,Neurology,In-person,3,Nothing special,2025-08-31
+537,ER,Virtual,5,Friendly staff,2025-05-18
+538,ER,Virtual,3,Average service,2025-12-20
+539,Orthopedics,Virtual,2,Confusing instructions,2025-10-02
+540,Orthopedics,Virtual,2,Waiting too long,2025-12-21
+541,Neurology,Virtual,3,Nothing special,2025-08-22
+542,Oncology,In-person,1,Staff unhelpful,2025-11-06
+543,Neurology,Virtual,3,Okay experience,2026-01-20
+544,Orthopedics,Virtual,1,Miscommunication,2025-01-30
+545,ER,In-person,4,Good experience,2025-06-13
+546,Oncology,In-person,2,Not satisfied,2025-07-02
+547,Orthopedics,In-person,1,Miscommunication,2025-07-05
+548,Orthopedics,In-person,3,Average service,2025-10-13
+549,Orthopedics,Virtual,2,Confusing instructions,2025-06-10
+550,Oncology,In-person,3,Nothing special,2025-02-01
+551,Orthopedics,Virtual,4,Staff helpful,2025-11-30
+552,Orthopedics,Virtual,5,Excellent service,2025-04-06
+553,Neurology,In-person,5,Excellent service,2025-10-26
+554,ER,In-person,5,Quick response,2025-03-26
+555,Orthopedics,Virtual,2,Not satisfied,2025-07-19
+556,ER,Virtual,1,Very poor service,2025-04-11
+557,Oncology,In-person,5,Very satisfied,2025-10-29
+558,Oncology,Virtual,5,Excellent service,2025-05-02
+559,ER,In-person,3,Average service,2025-05-28
+560,ER,In-person,4,Good experience,2025-04-24
+561,ER,In-person,2,Waiting too long,2025-05-26
+562,Orthopedics,Virtual,3,Average service,2025-08-14
+563,Neurology,In-person,3,Okay experience,2026-01-01
+564,Orthopedics,Virtual,3,Average service,2025-07-11
+565,Orthopedics,Virtual,4,Staff helpful,2025-09-29
+566,ER,In-person,2,Not satisfied,2025-09-01
+567,Cardiology,Virtual,4,Staff helpful,2025-07-10
+568,ER,In-person,2,Waiting too long,2025-12-16
+569,ER,In-person,2,Confusing instructions,2025-06-15
+570,Cardiology,In-person,3,Nothing special,2025-08-21
+571,Orthopedics,In-person,4,Timely treatment,2026-01-12
+572,Cardiology,In-person,4,Staff helpful,2025-07-21
+573,Neurology,Virtual,2,Waiting too long,2025-08-01
+574,Orthopedics,Virtual,1,Very poor service,2025-11-18
+575,ER,In-person,5,Friendly staff,2025-08-22
+576,Orthopedics,In-person,2,Confusing instructions,2025-07-23
+577,Neurology,Virtual,2,Confusing instructions,2025-02-27
+578,Cardiology,Virtual,2,Not satisfied,2025-06-24
+579,Orthopedics,In-person,3,Okay experience,2026-01-25
+580,Oncology,In-person,4,Staff helpful,2025-04-14
+581,Oncology,Virtual,4,Timely treatment,2025-02-07
+582,Cardiology,In-person,1,Long wait time,2025-06-07
+583,ER,In-person,5,Quick response,2025-09-10
+584,Neurology,In-person,3,Nothing special,2025-10-14
+585,Orthopedics,Virtual,5,Very satisfied,2025-04-22
+586,Neurology,Virtual,2,Not satisfied,2025-03-08
+587,Cardiology,Virtual,2,Poor experience,2025-03-24
+588,Orthopedics,In-person,2,Confusing instructions,2025-02-28
+589,Oncology,In-person,4,Timely treatment,2025-05-11
+590,Orthopedics,In-person,1,Very poor service,2025-04-27
+591,Neurology,In-person,4,Staff helpful,2025-04-16
+592,Cardiology,In-person,3,Nothing special,2025-09-17
+593,ER,In-person,2,Confusing instructions,2025-02-12
+594,Neurology,In-person,2,Poor experience,2025-12-12
+595,Cardiology,Virtual,5,Excellent service,2025-03-27
+596,Neurology,Virtual,4,Timely treatment,2025-02-12
+597,Orthopedics,Virtual,4,Timely treatment,2025-10-16
+598,ER,In-person,2,Poor experience,2025-09-20
+599,Oncology,Virtual,3,Average service,2025-04-15
+600,Cardiology,In-person,3,Nothing special,2026-01-26
+601,ER,Virtual,1,Very poor service,2025-06-19
+602,Oncology,Virtual,4,Staff helpful,2025-04-13
+603,Neurology,In-person,1,Very poor service,2026-01-01
+604,Cardiology,In-person,3,Average service,2025-02-24
+605,Oncology,Virtual,4,Staff helpful,2025-08-03
+606,Neurology,Virtual,1,Miscommunication,2025-04-24
+607,ER,In-person,4,Timely treatment,2025-06-25
+608,Oncology,In-person,1,Long wait time,2025-03-04
+609,ER,In-person,2,Waiting too long,2025-06-30
+610,Orthopedics,In-person,3,Average service,2025-10-27
+611,Neurology,Virtual,5,Excellent service,2025-11-24
+612,Orthopedics,In-person,1,Very poor service,2025-09-30
+613,Cardiology,Virtual,1,Miscommunication,2025-07-24
+614,Cardiology,Virtual,1,Long wait time,2025-08-24
+615,ER,In-person,5,Very satisfied,2026-01-27
+616,Cardiology,Virtual,3,Average service,2025-05-18
+617,Neurology,In-person,1,Staff unhelpful,2025-03-31
+618,Neurology,In-person,2,Confusing instructions,2025-09-28
+619,Cardiology,In-person,2,Waiting too long,2026-01-01
+620,Neurology,Virtual,4,Good experience,2026-01-23
+621,Neurology,In-person,5,Quick response,2025-08-18
+622,ER,Virtual,4,Staff helpful,2025-10-10
+623,ER,In-person,1,Treatment delayed,2025-12-24
+624,Neurology,Virtual,1,Staff unhelpful,2025-02-28
+625,Oncology,In-person,1,Treatment delayed,2025-06-28
+626,Neurology,In-person,5,Friendly staff,2025-03-22
+627,Oncology,In-person,5,Friendly staff,2026-01-02
+628,Oncology,Virtual,5,Friendly staff,2025-10-20
+629,Orthopedics,In-person,1,Very poor service,2025-02-03
+630,Cardiology,In-person,2,Not satisfied,2025-06-14
+631,Oncology,Virtual,3,Nothing special,2025-07-28
+632,ER,Virtual,3,Average service,2025-07-01
+633,Oncology,In-person,3,Average service,2025-10-08
+634,Oncology,Virtual,3,Nothing special,2025-02-03
+635,Orthopedics,Virtual,5,Excellent service,2025-02-25
+636,Oncology,In-person,4,Staff helpful,2025-03-04
+637,Cardiology,Virtual,4,Good experience,2025-12-15
+638,Cardiology,In-person,1,Miscommunication,2025-11-17
+639,Neurology,In-person,2,Not satisfied,2025-11-27
+640,Orthopedics,In-person,2,Confusing instructions,2025-06-12
+641,ER,Virtual,1,Miscommunication,2025-12-06
+642,Orthopedics,Virtual,3,Average service,2025-09-26
+643,Neurology,Virtual,4,Good experience,2025-11-21
+644,Neurology,In-person,3,Nothing special,2026-01-23
+645,Orthopedics,Virtual,4,Good experience,2025-09-20
+646,Oncology,In-person,4,Timely treatment,2025-06-29
+647,Neurology,In-person,2,Poor experience,2026-01-16
+648,Orthopedics,Virtual,5,Friendly staff,2025-12-03
+649,ER,In-person,3,Nothing special,2026-01-28
+650,Neurology,Virtual,1,Miscommunication,2025-12-13
+651,Orthopedics,In-person,4,Staff helpful,2026-01-26
+652,Oncology,In-person,3,Okay experience,2025-07-16
+653,Cardiology,Virtual,1,Long wait time,2025-09-15
+654,ER,Virtual,1,Treatment delayed,2025-12-28
+655,Neurology,Virtual,2,Not satisfied,2025-10-23
+656,Orthopedics,Virtual,4,Timely treatment,2025-09-16
+657,Cardiology,Virtual,4,Staff helpful,2025-12-09
+658,ER,Virtual,5,Friendly staff,2026-01-01
+659,Neurology,Virtual,5,Very satisfied,2025-09-17
+660,ER,In-person,5,Quick response,2025-09-08
+661,Orthopedics,Virtual,3,Nothing special,2025-07-06
+662,Neurology,Virtual,5,Friendly staff,2026-01-01
+663,Neurology,In-person,5,Quick response,2025-11-17
+664,ER,In-person,3,Okay experience,2026-01-21
+665,ER,In-person,4,Staff helpful,2025-05-01
+666,Neurology,In-person,3,Average service,2025-01-31
+667,Cardiology,In-person,3,Average service,2025-12-25
+668,Oncology,In-person,3,Okay experience,2025-04-08
+669,ER,Virtual,2,Confusing instructions,2025-08-10
+670,Oncology,In-person,5,Friendly staff,2025-07-02
+671,Neurology,Virtual,5,Friendly staff,2025-08-26
+672,Neurology,In-person,5,Very satisfied,2025-11-11
+673,ER,Virtual,2,Not satisfied,2025-12-12
+674,ER,Virtual,4,Staff helpful,2025-11-25
+675,ER,Virtual,2,Not satisfied,2025-03-17
+676,Orthopedics,In-person,2,Waiting too long,2025-11-15
+677,Cardiology,Virtual,1,Miscommunication,2025-08-18
+678,ER,Virtual,1,Staff unhelpful,2025-06-07
+679,Cardiology,Virtual,1,Long wait time,2025-10-26
+680,Neurology,Virtual,5,Excellent service,2025-09-11
+681,Orthopedics,In-person,5,Friendly staff,2025-06-07
+682,ER,In-person,2,Confusing instructions,2025-03-25
+683,Neurology,Virtual,5,Very satisfied,2025-10-28
+684,ER,Virtual,2,Waiting too long,2025-10-08
+685,Neurology,Virtual,3,Nothing special,2025-02-25
+686,Oncology,Virtual,1,Miscommunication,2026-01-02
+687,Neurology,Virtual,1,Staff unhelpful,2025-11-03
+688,ER,In-person,5,Quick response,2025-10-06
+689,Orthopedics,Virtual,3,Average service,2025-06-29
+690,Cardiology,Virtual,4,Good experience,2025-04-28
+691,Cardiology,Virtual,5,Excellent service,2025-12-17
+692,ER,In-person,5,Friendly staff,2025-07-07
+693,Neurology,Virtual,2,Poor experience,2025-02-22
+694,ER,Virtual,5,Friendly staff,2025-02-03
+695,Neurology,Virtual,1,Miscommunication,2025-10-20
+696,Orthopedics,In-person,4,Timely treatment,2025-12-29
+697,Cardiology,Virtual,2,Poor experience,2025-11-06
+698,Oncology,In-person,3,Nothing special,2025-03-22
+699,ER,In-person,2,Poor experience,2025-11-27
+700,Cardiology,Virtual,4,Good experience,2025-04-19
+701,Orthopedics,Virtual,2,Not satisfied,2025-03-20
+702,Orthopedics,Virtual,3,Nothing special,2025-09-03
+703,Orthopedics,Virtual,3,Nothing special,2025-10-17
+704,ER,In-person,4,Staff helpful,2025-06-22
+705,Neurology,Virtual,5,Excellent service,2025-07-19
+706,ER,Virtual,4,Timely treatment,2025-07-18
+707,Neurology,In-person,4,Staff helpful,2025-11-11
+708,Cardiology,In-person,5,Very satisfied,2025-07-05
+709,ER,In-person,3,Okay experience,2025-03-05
+710,Cardiology,In-person,2,Not satisfied,2025-03-27
+711,Oncology,In-person,2,Poor experience,2025-10-11
+712,Cardiology,Virtual,1,Treatment delayed,2025-07-12
+713,Orthopedics,Virtual,2,Not satisfied,2025-08-22
+714,Oncology,In-person,3,Average service,2025-12-08
+715,Oncology,In-person,3,Nothing special,2025-11-29
+716,Neurology,In-person,4,Good experience,2025-04-01
+717,Orthopedics,Virtual,4,Staff helpful,2025-09-15
+718,Orthopedics,Virtual,5,Friendly staff,2025-06-07
+719,Oncology,In-person,3,Okay experience,2025-07-01
+720,ER,In-person,4,Staff helpful,2025-01-28
+721,Cardiology,Virtual,2,Not satisfied,2026-01-11
+722,Cardiology,In-person,4,Timely treatment,2025-08-30
+723,Cardiology,In-person,4,Staff helpful,2025-05-28
+724,ER,In-person,4,Good experience,2025-03-21
+725,Orthopedics,In-person,3,Nothing special,2025-07-08
+726,Cardiology,Virtual,2,Poor experience,2025-02-23
+727,ER,Virtual,3,Okay experience,2026-01-23
+728,Cardiology,Virtual,5,Quick response,2025-09-15
+729,Neurology,Virtual,3,Okay experience,2025-09-20
+730,Neurology,Virtual,1,Treatment delayed,2025-05-02
+731,Oncology,Virtual,4,Timely treatment,2025-05-11
+732,ER,Virtual,1,Long wait time,2025-06-21
+733,ER,Virtual,1,Very poor service,2025-05-12
+734,ER,Virtual,1,Staff unhelpful,2025-05-12
+735,ER,In-person,2,Confusing instructions,2025-12-09
+736,Orthopedics,In-person,1,Staff unhelpful,2025-11-10
+737,Neurology,Virtual,2,Not satisfied,2025-09-02
+738,Cardiology,Virtual,2,Not satisfied,2025-03-09
+739,Oncology,In-person,2,Not satisfied,2025-12-31
+740,Orthopedics,In-person,1,Long wait time,2026-01-27
+741,ER,In-person,5,Quick response,2025-04-15
+742,ER,In-person,5,Very satisfied,2025-10-10
+743,Oncology,In-person,4,Good experience,2025-02-08
+744,Cardiology,In-person,1,Staff unhelpful,2025-11-17
+745,Oncology,Virtual,3,Okay experience,2025-11-16
+746,Orthopedics,Virtual,3,Average service,2025-10-25
+747,Cardiology,Virtual,5,Excellent service,2025-07-26
+748,Oncology,In-person,3,Nothing special,2025-02-02
+749,Cardiology,Virtual,3,Nothing special,2025-06-30
+750,Neurology,In-person,4,Timely treatment,2025-04-19
+751,Oncology,Virtual,1,Staff unhelpful,2025-08-21
+752,Cardiology,In-person,1,Miscommunication,2025-11-24
+753,Cardiology,In-person,2,Not satisfied,2026-01-18
+754,Orthopedics,Virtual,3,Nothing special,2025-08-05
+755,ER,Virtual,1,Long wait time,2025-10-16
+756,Cardiology,In-person,3,Average service,2025-02-09
+757,ER,In-person,2,Confusing instructions,2025-12-19
+758,ER,Virtual,3,Average service,2025-07-06
+759,ER,In-person,5,Quick response,2025-05-11
+760,Oncology,In-person,1,Very poor service,2026-01-20
+761,Oncology,In-person,5,Excellent service,2025-10-16
+762,Oncology,In-person,1,Very poor service,2025-12-09
+763,Cardiology,In-person,1,Very poor service,2025-10-13
+764,Cardiology,In-person,3,Okay experience,2026-01-15
+765,Neurology,Virtual,2,Poor experience,2025-11-23
+766,Cardiology,Virtual,4,Good experience,2025-06-13
+767,Orthopedics,Virtual,4,Timely treatment,2025-03-21
+768,ER,In-person,5,Friendly staff,2025-08-28
+769,ER,In-person,4,Staff helpful,2025-09-03
+770,Oncology,Virtual,3,Okay experience,2025-06-29
+771,Cardiology,Virtual,4,Staff helpful,2026-01-13
+772,Oncology,Virtual,3,Okay experience,2025-10-27
+773,ER,Virtual,4,Good experience,2025-08-08
+774,Neurology,Virtual,1,Miscommunication,2025-12-19
+775,Cardiology,In-person,1,Miscommunication,2025-05-02
+776,Orthopedics,In-person,1,Very poor service,2025-06-09
+777,Orthopedics,Virtual,3,Nothing special,2026-01-07
+778,ER,Virtual,3,Okay experience,2025-04-25
+779,ER,Virtual,5,Excellent service,2025-06-24
+780,Cardiology,Virtual,5,Friendly staff,2025-12-29
+781,Cardiology,Virtual,1,Treatment delayed,2025-04-11
+782,ER,Virtual,5,Quick response,2025-12-20
+783,Orthopedics,Virtual,4,Good experience,2026-01-08
+784,Oncology,Virtual,4,Timely treatment,2025-03-15
+785,Neurology,Virtual,2,Poor experience,2025-02-26
+786,Neurology,In-person,5,Quick response,2025-09-13
+787,Oncology,In-person,5,Very satisfied,2025-07-18
+788,Oncology,Virtual,4,Good experience,2025-08-30
+789,Oncology,Virtual,3,Okay experience,2025-06-13
+790,ER,Virtual,5,Excellent service,2025-12-22
+791,Oncology,In-person,5,Excellent service,2025-02-10
+792,Oncology,In-person,4,Good experience,2025-08-17
+793,Oncology,In-person,5,Excellent service,2025-03-28
+794,Neurology,Virtual,1,Miscommunication,2025-07-27
+795,Orthopedics,Virtual,3,Okay experience,2025-09-23
+796,Oncology,Virtual,4,Timely treatment,2025-11-15
+797,ER,In-person,4,Good experience,2026-01-11
+798,Oncology,In-person,3,Nothing special,2025-09-17
+799,Neurology,In-person,5,Quick response,2025-11-15
+800,Neurology,In-person,1,Treatment delayed,2025-05-30
+801,ER,Virtual,2,Confusing instructions,2025-12-02
+802,Neurology,Virtual,3,Okay experience,2025-11-02
+803,Cardiology,Virtual,5,Friendly staff,2025-11-14
+804,Orthopedics,Virtual,2,Waiting too long,2025-02-16
+805,Oncology,In-person,1,Staff unhelpful,2025-06-08
+806,Neurology,Virtual,2,Confusing instructions,2025-08-13
+807,Neurology,Virtual,4,Good experience,2025-03-29
+808,Orthopedics,Virtual,1,Very poor service,2025-03-02
+809,Neurology,Virtual,1,Very poor service,2026-01-28
+810,Cardiology,Virtual,2,Waiting too long,2025-05-25
+811,Oncology,In-person,3,Nothing special,2025-11-21
+812,ER,Virtual,3,Nothing special,2025-04-06
+813,ER,Virtual,3,Nothing special,2026-01-21
+814,ER,Virtual,3,Average service,2025-01-28
+815,Orthopedics,Virtual,4,Timely treatment,2025-11-23
+816,Oncology,Virtual,3,Average service,2025-07-07
+817,Neurology,In-person,3,Nothing special,2025-07-15
+818,Orthopedics,In-person,2,Waiting too long,2025-07-26
+819,Cardiology,Virtual,5,Friendly staff,2025-08-10
+820,Oncology,Virtual,4,Good experience,2025-07-30
+821,Cardiology,Virtual,4,Good experience,2025-05-19
+822,Neurology,In-person,3,Average service,2025-03-15
+823,Orthopedics,In-person,2,Poor experience,2025-07-26
+824,ER,Virtual,2,Poor experience,2025-04-17
+825,Cardiology,In-person,3,Average service,2025-05-01
+826,ER,Virtual,3,Nothing special,2025-05-18
+827,Oncology,Virtual,3,Okay experience,2025-04-16
+828,Neurology,In-person,4,Good experience,2025-11-29
+829,Oncology,Virtual,5,Quick response,2025-12-13
+830,ER,Virtual,4,Timely treatment,2025-05-13
+831,ER,In-person,3,Average service,2025-01-29
+832,Neurology,Virtual,1,Treatment delayed,2026-01-02
+833,Oncology,In-person,4,Good experience,2025-10-22
+834,ER,In-person,2,Poor experience,2025-03-08
+835,Orthopedics,Virtual,1,Long wait time,2025-05-30
+836,Neurology,In-person,3,Nothing special,2025-04-20
+837,Cardiology,In-person,4,Timely treatment,2025-10-06
+838,ER,In-person,5,Very satisfied,2025-08-08
+839,Neurology,In-person,5,Excellent service,2025-09-26
+840,Oncology,In-person,5,Quick response,2025-04-04
+841,Neurology,In-person,5,Friendly staff,2026-01-03
+842,Neurology,In-person,4,Staff helpful,2025-03-22
+843,ER,Virtual,3,Okay experience,2026-01-07
+844,Oncology,Virtual,2,Poor experience,2025-04-27
+845,Oncology,In-person,4,Timely treatment,2025-12-25
+846,Oncology,In-person,4,Good experience,2025-09-19
+847,Orthopedics,Virtual,4,Good experience,2025-06-06
+848,Orthopedics,Virtual,5,Excellent service,2025-03-29
+849,Orthopedics,In-person,5,Friendly staff,2025-04-30
+850,ER,In-person,1,Long wait time,2025-10-20
+851,Neurology,In-person,2,Not satisfied,2025-12-10
+852,ER,Virtual,1,Miscommunication,2025-06-19
+853,Cardiology,Virtual,2,Waiting too long,2025-07-30
+854,Oncology,Virtual,3,Okay experience,2025-11-29
+855,Neurology,Virtual,4,Good experience,2025-06-06
+856,Cardiology,Virtual,5,Friendly staff,2025-05-21
+857,Neurology,In-person,5,Quick response,2025-03-16
+858,Cardiology,In-person,1,Treatment delayed,2025-05-14
+859,Oncology,In-person,5,Very satisfied,2025-04-21
+860,ER,Virtual,5,Very satisfied,2025-02-10
+861,Orthopedics,Virtual,1,Staff unhelpful,2025-11-20
+862,Neurology,Virtual,5,Friendly staff,2025-05-31
+863,ER,In-person,3,Nothing special,2025-11-07
+864,Cardiology,Virtual,3,Average service,2026-01-05
+865,ER,Virtual,5,Quick response,2025-03-28
+866,Cardiology,Virtual,4,Good experience,2025-04-25
+867,Cardiology,In-person,5,Friendly staff,2025-09-30
+868,Orthopedics,Virtual,3,Okay experience,2025-03-14
+869,Orthopedics,In-person,5,Friendly staff,2025-09-09
+870,Orthopedics,Virtual,2,Poor experience,2025-09-21
+871,ER,Virtual,3,Okay experience,2025-06-30
+872,Cardiology,Virtual,2,Waiting too long,2025-12-09
+873,Cardiology,Virtual,5,Very satisfied,2025-10-15
+874,Oncology,Virtual,2,Not satisfied,2025-08-30
+875,Oncology,Virtual,4,Good experience,2025-05-14
+876,Orthopedics,In-person,4,Staff helpful,2025-12-26
+877,Cardiology,Virtual,4,Good experience,2025-04-23
+878,Oncology,In-person,2,Waiting too long,2025-02-17
+879,ER,Virtual,2,Not satisfied,2025-05-04
+880,ER,Virtual,3,Okay experience,2025-06-17
+881,Neurology,Virtual,5,Very satisfied,2025-05-29
+882,Orthopedics,In-person,4,Timely treatment,2025-03-31
+883,Cardiology,Virtual,5,Excellent service,2025-12-23
+884,Cardiology,Virtual,3,Nothing special,2025-06-29
+885,ER,Virtual,4,Staff helpful,2025-02-10
+886,Oncology,In-person,2,Waiting too long,2025-03-19
+887,Orthopedics,Virtual,2,Confusing instructions,2025-02-23
+888,ER,In-person,2,Poor experience,2025-09-29
+889,Cardiology,In-person,5,Very satisfied,2025-04-12
+890,Oncology,In-person,3,Nothing special,2026-01-14
+891,ER,Virtual,2,Not satisfied,2026-01-22
+892,ER,In-person,5,Very satisfied,2025-09-27
+893,Cardiology,Virtual,3,Okay experience,2025-03-08
+894,Oncology,In-person,5,Excellent service,2025-09-22
+895,Oncology,Virtual,2,Confusing instructions,2025-02-21
+896,Orthopedics,Virtual,1,Very poor service,2025-03-13
+897,Neurology,In-person,5,Very satisfied,2025-11-10
+898,Neurology,In-person,3,Nothing special,2025-08-06
+899,Oncology,Virtual,1,Very poor service,2025-10-25
+900,Neurology,In-person,3,Average service,2025-10-31
+901,Oncology,Virtual,2,Confusing instructions,2025-11-01
+902,Oncology,In-person,1,Miscommunication,2026-01-27
+903,Orthopedics,Virtual,2,Confusing instructions,2025-10-30
+904,Cardiology,In-person,4,Good experience,2025-07-12
+905,Oncology,Virtual,4,Staff helpful,2025-11-24
+906,Orthopedics,In-person,4,Timely treatment,2025-05-31
+907,Orthopedics,Virtual,4,Timely treatment,2025-02-12
+908,ER,Virtual,5,Very satisfied,2026-01-10
+909,Neurology,Virtual,2,Poor experience,2025-06-08
+910,Neurology,In-person,4,Good experience,2025-02-13
+911,Neurology,Virtual,3,Average service,2025-04-10
+912,Cardiology,In-person,2,Not satisfied,2025-02-18
+913,Oncology,In-person,1,Treatment delayed,2025-06-28
+914,Cardiology,Virtual,4,Timely treatment,2025-12-04
+915,ER,Virtual,5,Excellent service,2025-11-04
+916,Orthopedics,Virtual,5,Friendly staff,2025-09-10
+917,Cardiology,Virtual,1,Treatment delayed,2025-10-05
+918,Cardiology,Virtual,3,Okay experience,2025-03-11
+919,Neurology,In-person,5,Excellent service,2025-05-13
+920,Orthopedics,Virtual,1,Very poor service,2025-02-09
+921,ER,In-person,5,Friendly staff,2025-06-24
+922,Orthopedics,Virtual,2,Waiting too long,2025-10-01
+923,Neurology,Virtual,5,Very satisfied,2025-08-11
+924,Neurology,Virtual,4,Staff helpful,2025-07-29
+925,Orthopedics,In-person,5,Very satisfied,2025-08-03
+926,Cardiology,In-person,3,Okay experience,2025-04-04
+927,ER,In-person,4,Staff helpful,2025-08-15
+928,Oncology,In-person,4,Good experience,2025-02-19
+929,Neurology,Virtual,4,Good experience,2026-01-24
+930,Cardiology,Virtual,3,Average service,2025-03-19
+931,Neurology,In-person,1,Miscommunication,2026-01-21
+932,ER,In-person,3,Nothing special,2025-11-12
+933,Neurology,In-person,5,Excellent service,2025-03-30
+934,Neurology,Virtual,1,Miscommunication,2025-07-16
+935,Cardiology,Virtual,3,Nothing special,2025-10-28
+936,Cardiology,Virtual,2,Confusing instructions,2025-03-10
+937,ER,Virtual,3,Okay experience,2025-09-21
+938,ER,Virtual,2,Poor experience,2026-01-02
+939,Orthopedics,In-person,3,Nothing special,2025-07-28
+940,Oncology,In-person,1,Very poor service,2025-06-18
+941,Orthopedics,Virtual,4,Staff helpful,2025-06-30
+942,Oncology,In-person,2,Not satisfied,2025-06-12
+943,Orthopedics,In-person,2,Not satisfied,2025-12-08
+944,Neurology,Virtual,2,Confusing instructions,2025-04-18
+945,Cardiology,In-person,1,Treatment delayed,2025-08-07
+946,Oncology,Virtual,1,Very poor service,2025-12-03
+947,Neurology,In-person,4,Staff helpful,2025-04-12
+948,Cardiology,Virtual,2,Waiting too long,2025-06-26
+949,Neurology,In-person,4,Staff helpful,2025-06-07
+950,Orthopedics,Virtual,1,Very poor service,2025-08-15
+951,Oncology,Virtual,3,Okay experience,2025-07-20
+952,Orthopedics,In-person,1,Miscommunication,2025-07-18
+953,Neurology,In-person,3,Okay experience,2025-02-19
+954,ER,Virtual,3,Okay experience,2025-02-11
+955,Neurology,Virtual,5,Very satisfied,2025-04-03
+956,ER,In-person,4,Good experience,2025-02-02
+957,Cardiology,Virtual,2,Poor experience,2025-06-20
+958,Oncology,In-person,1,Staff unhelpful,2025-11-02
+959,Cardiology,Virtual,1,Treatment delayed,2026-01-16
+960,Neurology,Virtual,2,Confusing instructions,2025-06-12
+961,ER,In-person,1,Treatment delayed,2025-07-23
+962,Cardiology,In-person,3,Average service,2025-07-01
+963,Orthopedics,In-person,3,Average service,2025-07-29
+964,Cardiology,Virtual,1,Treatment delayed,2025-10-16
+965,Neurology,Virtual,4,Timely treatment,2025-05-07
+966,ER,Virtual,5,Quick response,2025-07-10
+967,Oncology,In-person,5,Quick response,2026-01-14
+968,Oncology,Virtual,3,Average service,2025-05-19
+969,Cardiology,Virtual,2,Not satisfied,2025-01-29
+970,ER,Virtual,4,Timely treatment,2025-08-05
+971,ER,Virtual,4,Staff helpful,2026-01-26
+972,Orthopedics,In-person,3,Nothing special,2025-07-08
+973,Neurology,In-person,1,Treatment delayed,2025-12-13
+974,Oncology,In-person,4,Good experience,2025-07-08
+975,Oncology,In-person,1,Very poor service,2026-01-25
+976,ER,In-person,3,Okay experience,2025-07-21
+977,Oncology,In-person,2,Poor experience,2025-06-15
+978,Oncology,In-person,5,Friendly staff,2026-01-22
+979,ER,In-person,2,Confusing instructions,2025-08-17
+980,Oncology,In-person,4,Staff helpful,2025-10-02
+981,Cardiology,In-person,2,Not satisfied,2025-09-21
+982,Orthopedics,Virtual,2,Not satisfied,2026-01-12
+983,Orthopedics,Virtual,2,Confusing instructions,2026-01-13
+984,Neurology,In-person,4,Good experience,2025-12-18
+985,Orthopedics,Virtual,1,Very poor service,2025-07-29
+986,Orthopedics,In-person,1,Miscommunication,2025-02-18
+987,Neurology,Virtual,4,Staff helpful,2025-06-14
+988,Neurology,In-person,1,Staff unhelpful,2025-05-09
+989,Orthopedics,Virtual,5,Friendly staff,2025-03-11
+990,Oncology,In-person,2,Poor experience,2025-12-11
+991,Orthopedics,In-person,4,Staff helpful,2025-02-07
+992,Cardiology,Virtual,2,Not satisfied,2025-05-28
+993,Orthopedics,Virtual,5,Very satisfied,2025-06-09
+994,Orthopedics,Virtual,5,Excellent service,2025-05-30
+995,Cardiology,Virtual,4,Staff helpful,2025-06-07
+996,Cardiology,Virtual,1,Treatment delayed,2025-06-09
+997,Cardiology,In-person,4,Good experience,2025-06-12
+998,ER,Virtual,5,Very satisfied,2025-09-03
+999,Oncology,In-person,5,Very satisfied,2025-12-04
+1000,Neurology,Virtual,2,Poor experience,2026-01-18
