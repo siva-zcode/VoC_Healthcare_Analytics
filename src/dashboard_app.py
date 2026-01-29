@@ -27,7 +27,7 @@ It includes **sentiment analysis, keyword trends, and topic modeling** to help i
 # ------------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv('../data/synthetic_feedback_cleaned.csv')
+    df = pd.read_csv('data/synthetic_feedback_cleaned.csv')
     df['date'] = pd.to_datetime(df['date'])
     df['month'] = df['date'].dt.to_period('M')
     return df
